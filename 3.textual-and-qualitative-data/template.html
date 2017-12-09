@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <title>Northside Festival Schedule</title>
+   <link rel="stylesheet" href="lib/css/typography.css" type="text/css" charset="utf-8">
+   <link rel="stylesheet" href="styles.css" type="text/css" charset="utf-8">
+   <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+   <script>
+      $(function() {
+          $( "#accordion" ).accordion({
+              heightStyle: "content"
+              header: ".daytitle"
+          });
+        });
+  </script>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="title">
+            <h1 style="display: inline;">NORTHSIDE FESTIVAL</h1>
+            <h3 style="display: inline;">schedule of events</h3>
+        </div>
+        <div class="schedule" id="accordion">
+            <div class="daytitle" id="thursday">
+                THURSDAY, JUNE 8TH.
+            </div>
+            <div class="shows">
+                <table style="width: 960px;">
+                    {{#each thursday}}
+                    <tr><td>&nbsp;</td></tr>
+                    <tr><td></td><td></td><td></td><td class="hour">{{@key}}</td></tr>
+                    <th></th><th>WHO</th><th>WHERE</th><th>WHEN</th>
+                    {{#each this}}
+                    <tr>
+                        <td></td>
+                        <td>{{this.artist}}</td>
+                        <td>{{this.venue}}</td>
+                        <td>{{this.schedule.start}}</td>
+                    </tr>
+                    {{/each}}
+                    {{/each}}
+                </table>
+            </div>
+            
+            <div class="daytitle">
+                FRIDAY, JUNE 9TH.
+            </div>
+            <div class="shows">
+                <table style="width: 960px;">
+                    {{#each friday}}
+                    <tr><td>&nbsp;</td></tr>
+                    <tr><td></td><td></td><td></td><td class="hour">{{@key}}</td></tr>
+                    <th></th><th>WHO</th><th>WHERE</th><th>WHEN</th>
+                    {{#each this}}
+                    <tr>
+                        <td></td>
+                        <td>{{this.artist}}</td>
+                        <td>{{this.venue}}</td>
+                        <td>{{this.schedule.start}}</td>
+                    </tr>
+                    {{/each}}
+                    {{/each}}
+                </table>
+            </div>
+            
+            <div class="daytitle">
+                SATURDAY, JUNE 10TH.
+            </div>
+            <div class="shows">
+                <table style="width: 960px;">
+                    {{#each saturday}}
+                    <tr><td>&nbsp;</td></tr>
+                    <tr><td></td><td></td><td></td><td class="hour">{{@key}}</td></tr>
+                    <th></th><th>WHO</th><th>WHERE</th><th>WHEN</th>
+                    {{#each this}}
+                    <tr>
+                        <td></td>
+                        <td>{{this.artist}}</td>
+                        <td>{{this.venue}}</td>
+                        <td>{{this.schedule.start}}</td>
+                    </tr>
+                    {{/each}}
+                    {{/each}}
+                </table>
+            </div>
+            
+            <div class="daytitle">
+                SUNDAY, JUNE 11TH.
+            </div>
+            <div class="shows">
+                <table style="width: 960px;">
+                    {{#each sunday}}
+                    <tr><td>&nbsp;</td></tr>
+                    <tr><td></td><td></td><td></td><td class="hour">{{@key}}</td></tr>
+                    <th></th><th>WHO</th><th>WHERE</th><th>WHEN</th>
+                    {{#each this}}
+                    <tr>
+                        <td></td>
+                        <td>{{this.artist}}</td>
+                        <td>{{this.venue}}</td>
+                        <td>{{this.schedule.start}}</td>
+                    </tr>
+                    {{/each}}
+                    {{/each}}
+                </table>
+            </div>
+            
+        </div>
+    </div>
+
+   <div class="listing">
+     {{!--
+     <h1>Artists</h1>
+      <ul>
+       {{#each names}}
+       <li>{{this}}</li>
+       {{/each}}
+     </ul>
+     --}}
+
+     {{!--
+     {{#each shows}}
+     <h2>{{this.0.artist}}</h2>
+     <ul class="show">
+     {{#each this}}
+     <li>{{this.venue}}</li>
+     {{/each}}
+     </ul>
+     {{/each}}
+     --}}
+   </div>
+
+   <script src="lib/js/jquery-3.2.1.min.js"></script>
+   <script src="lib/js/lodash-4.17.4.min.js"></script>
+   <script src="ui.js"></script>
+
+</body>
+</html>

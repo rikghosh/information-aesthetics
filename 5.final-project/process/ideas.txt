@@ -1,0 +1,19 @@
+1. A Visualization of a Chopin Etude (I’m thinking Op. 25 No. 12). The chord changes about every measure, so I would assign an appropriate color to each chord and then transition between them. Additionally, I can map other data (like note duration) to other retinal variables. 
+
+2. Comparing relationship between independent sets of personal tracking, like sleep (data from Sleep Cycle app) and steps walked. I’d like to find a way to remap Sleep Cycle data from the standard representation and incorporate steps walked.
+
+3. A recipe tool that allows the user to select (from a list of common items) items that he or she has available and then suggests recipes that the user can make. 
+
+4. Comparing word frequency in a group of literature, maybe by gender of author? Project Gutenberg would offer text data, and it can be analyzed with RiTa. 
+
+5. Categorization of works by Monet (for example) by Average color. Multiple views can be available, displaying chronologically, too, perhaps. 
+
+6. Analysis of lead in NYC tap water supply. Result would be map with varying lead levels — color can be mapped to lead level at each testing site.
+
+7. Constellation map with each constellation being selectable and linking to myths featuring the figure in that constellation. Can use lines to represent mythological relations between constellations. Would have to construct dataset from various sources. 
+
+8. Map of NYC grocery stores and what kind — small bodega, larger store, etc.  
+
+9. Food and Nutrition Chart. Interactive plot displaying foods high in selected nutrients. For a project of smaller scope, it may be helpful to focus on a particular set of nutrients (like sugar, or a particular vitamin). 
+
+10. Mathematics subfield classification. Scrape Wikipedia to find related fields (based on “see also,” displaying results in a graph with each field being a node. 

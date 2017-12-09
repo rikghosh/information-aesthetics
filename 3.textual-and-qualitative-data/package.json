@@ -1,0 +1,14 @@
+{
+  "name": "un-sustainable-development",
+  "version": "1.0.0",
+  "description": "United Nations: Sustainable Development Goals",
+  "scripts": {
+    "start": "http-server ./site -a localhost -p 8080 -c-1"
+  },
+  "dependencies": {
+    "handlebars": "^4.0.10",
+    "http-server": "^0.10.0",
+    "lodash": "^4.17.4",
+    "number-to-words": "^1.2.3"
+  }
+}

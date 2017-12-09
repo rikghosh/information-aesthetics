@@ -1,0 +1,47 @@
+#
+# List of URLs pointing to publicly accessible data (including a brief description of the subject matter & data format)
+#
+# For example, the earthquake feeds we've been using could be summarized as:
+#   Description: Realtime feeds of recent earthquake times, locations, and magnitudes
+#   Provider: the US Geological Survey
+#   Format: multiple CSV files with different time/magnitude windows
+#   URL: https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php
+
+Description: Lead levels in tap water at various places in NYC
+Provider: NYC OpenData
+Format: Excel file
+URL: https://data.cityofnewyork.us/Environment/Lead-At-The-Tap-Results/kdqv-qs7p
+
+Description: Database of recipes, including nutrition and ingredient information
+Provider: Spoonacular
+Format: Web-based API?
+URL: https://spoonacular.com/api/docs/recipes-api
+
+Description: Wikipedia page on fields of mathematics
+Provider: Wikipedia
+Format: Website
+URL: en.wikipedia.org/wiki/Glossary_of_areas_of_mathematics
+
+Description: Database of book texts
+Provider: Project Gutenberg
+Format: Text file
+URL: https://www.gutenberg.org/
+
+Description: Midi file of Chopin Etude (other pieces available also)
+Provider: Midi World
+Format: Midi
+URL: http://www.midiworld.com/midis/other/chopin/chet2512.mid
+
+———————————
+DATA SOURCES FOR PROPOSALS
+
+VISUALIZING BACH
+Prelude Midi: https://www.8notes.com/scores/2792.asp?ftype=midi
+Midi to MusicXML converter: http://flashmusicgames.com/midi/mid2xml.php
+
+VISUALIZING MONET
+Monet painting database: http://www.monetpainting.net/painting_thumbnails.php?search_by=all
+
+VISUALIZING WATER QUALITY
+EWG: https://www.ewg.org/tapwater/#.WgzLPRNSy_s
+NYC Open Data: https://data.cityofnewyork.us/Environment/Lead-At-The-Tap-Results/kdqv-qs7p

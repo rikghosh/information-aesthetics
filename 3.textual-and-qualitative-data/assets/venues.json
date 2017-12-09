@@ -1,0 +1,7880 @@
+{
+  "Alphaville": [
+    {
+      "venue": "Alphaville", 
+      "artist": "Stuyedeyed", 
+      "subtitle": [
+        "AdHoc"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "9:00 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "Alphaville", 
+      "artist": "Surfbort", 
+      "subtitle": [
+        "AdHoc"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "10:00 PM", 
+        "end": "11:00 PM"
+      }
+    }, 
+    {
+      "venue": "Alphaville", 
+      "artist": "Meatbodies", 
+      "subtitle": [
+        "AdHoc", 
+        "Panache"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 23, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "11:00 PM", 
+        "end": "12:00 AM"
+      }
+    }, 
+    {
+      "venue": "Alphaville", 
+      "artist": "W-2", 
+      "subtitle": [
+        "Monofonus Press", 
+        "Astral Spirits"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 30, 
+        "endMinute": 15, 
+        "startHour": 20, 
+        "day": 1, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "8:45 PM", 
+        "end": "9:15 PM"
+      }
+    }, 
+    {
+      "venue": "Alphaville", 
+      "artist": "Soft Healer", 
+      "subtitle": [
+        "Monofonus Press", 
+        "Astral Spirits"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:15 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "Alphaville", 
+      "artist": "Li\u00e9", 
+      "subtitle": [
+        "Monofonus Press", 
+        "Astral Spirits"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 22, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "10:00 PM", 
+        "end": "10:45 PM"
+      }
+    }, 
+    {
+      "venue": "Alphaville", 
+      "artist": "Hidden Ritual", 
+      "subtitle": [
+        "Monofonus Press", 
+        "Astral Spirits"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 22, 
+        "day": 1, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "10:45 PM", 
+        "end": "11:30 PM"
+      }
+    }, 
+    {
+      "venue": "Alphaville", 
+      "artist": "Joe McPhee & Tashi Dorji & M. Geddas Gengras", 
+      "subtitle": [
+        "Monofonus Press", 
+        "Astral Spirits"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 23, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "11:30 PM", 
+        "end": "12:30 AM"
+      }
+    }, 
+    {
+      "venue": "Alphaville", 
+      "artist": "Future Punx", 
+      "subtitle": [
+        "Dull Tools"
+      ], 
+      "time": {
+        "endHour": 1, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 0, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "12:00 AM", 
+        "end": "1:00 AM"
+      }
+    }, 
+    {
+      "venue": "Alphaville", 
+      "artist": "The Spookfish", 
+      "subtitle": [
+        "Fire Talk"
+      ], 
+      "time": {
+        "endHour": 16, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 15, 
+        "day": 2, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "3:15 PM", 
+        "end": "4:00 PM"
+      }
+    }, 
+    {
+      "venue": "Alphaville", 
+      "artist": "Gold Dime", 
+      "subtitle": [
+        "Fire Talk"
+      ], 
+      "time": {
+        "endHour": 16, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 16, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "4:00 PM", 
+        "end": "4:45 PM"
+      }
+    }, 
+    {
+      "venue": "Alphaville", 
+      "artist": "Media Jeweler", 
+      "subtitle": [
+        "Fire Talk"
+      ], 
+      "time": {
+        "endHour": 17, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 16, 
+        "day": 2, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "4:45 PM", 
+        "end": "5:30 PM"
+      }
+    }, 
+    {
+      "venue": "Alphaville", 
+      "artist": "Weeping Icon", 
+      "subtitle": [
+        "Fire Talk"
+      ], 
+      "time": {
+        "endHour": 18, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 17, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "5:30 PM", 
+        "end": "6:15 PM"
+      }
+    }, 
+    {
+      "venue": "Alphaville", 
+      "artist": "PC Worship (solo)", 
+      "subtitle": [
+        "Dull Tools", 
+        "Ears to Feed", 
+        "Impose"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 30, 
+        "endMinute": 0, 
+        "startHour": 20, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "8:30 PM", 
+        "end": "9:00 PM"
+      }
+    }, 
+    {
+      "venue": "Alphaville", 
+      "artist": "A. Savage", 
+      "subtitle": [
+        "Dull Tools"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:00 PM", 
+        "end": "9:45 PM"
+      }
+    }, 
+    {
+      "venue": "Alphaville", 
+      "artist": "Bodega", 
+      "subtitle": [
+        "Dull Tools"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:45 PM", 
+        "end": "10:30 PM"
+      }
+    }, 
+    {
+      "venue": "Alphaville", 
+      "artist": "Heaven's Gate", 
+      "subtitle": [
+        "Dull Tools"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 22, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "10:30 PM", 
+        "end": "11:15 PM"
+      }
+    }, 
+    {
+      "venue": "Alphaville", 
+      "artist": "Eaters", 
+      "subtitle": [
+        "Dull Tools"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 23, 
+        "day": 2, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "11:15 PM", 
+        "end": "12:00 AM"
+      }
+    }
+  ], 
+  "Baby's All Right": [
+    {
+      "venue": "Baby's All Right", 
+      "artist": "Purr", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 21, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "9:00 PM", 
+        "end": "9:45 PM"
+      }
+    }, 
+    {
+      "venue": "Baby's All Right", 
+      "artist": "Joy Again", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 21, 
+        "day": 0, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "9:45 PM", 
+        "end": "10:30 PM"
+      }
+    }, 
+    {
+      "venue": "Baby's All Right", 
+      "artist": "Hoops", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 22, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "10:30 PM", 
+        "end": "11:30 PM"
+      }
+    }, 
+    {
+      "venue": "Baby's All Right", 
+      "artist": "Ancient Ocean", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 1, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 0, 
+        "day": 1, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "12:15 AM", 
+        "end": "1:00 AM"
+      }
+    }, 
+    {
+      "venue": "Baby's All Right", 
+      "artist": "Flock Of Dimes", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 2, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 1, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "1:00 AM", 
+        "end": "2:00 AM"
+      }
+    }, 
+    {
+      "venue": "Baby's All Right", 
+      "artist": "Holy Holy Vine", 
+      "subtitle": [
+        "AdHoc"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 20, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "8:30 PM", 
+        "end": "9:15 PM"
+      }
+    }, 
+    {
+      "venue": "Baby's All Right", 
+      "artist": "tubafresh", 
+      "subtitle": [
+        "AdHoc"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:15 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "Baby's All Right", 
+      "artist": "Mirah", 
+      "subtitle": [
+        "AdHoc"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 22, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "10:00 PM", 
+        "end": "10:45 PM"
+      }
+    }, 
+    {
+      "venue": "Baby's All Right", 
+      "artist": "Partner", 
+      "subtitle": [
+        "Terrorbird"
+      ], 
+      "time": {
+        "endHour": 14, 
+        "duration": 60, 
+        "endMinute": 20, 
+        "startHour": 13, 
+        "day": 2, 
+        "startMinute": 20
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "1:20 PM", 
+        "end": "2:20 PM"
+      }
+    }, 
+    {
+      "venue": "Baby's All Right", 
+      "artist": "Casper Skulls", 
+      "subtitle": [
+        "Terrorbird"
+      ], 
+      "time": {
+        "endHour": 15, 
+        "duration": 60, 
+        "endMinute": 20, 
+        "startHour": 14, 
+        "day": 2, 
+        "startMinute": 20
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "2:20 PM", 
+        "end": "3:20 PM"
+      }
+    }, 
+    {
+      "venue": "Baby's All Right", 
+      "artist": "Active Bird Community", 
+      "subtitle": [
+        "Terrorbird"
+      ], 
+      "time": {
+        "endHour": 16, 
+        "duration": 60, 
+        "endMinute": 20, 
+        "startHour": 15, 
+        "day": 2, 
+        "startMinute": 20
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "3:20 PM", 
+        "end": "4:20 PM"
+      }
+    }, 
+    {
+      "venue": "Baby's All Right", 
+      "artist": "Slaughter Beach, Dog", 
+      "subtitle": [
+        "Terrorbird"
+      ], 
+      "time": {
+        "endHour": 17, 
+        "duration": 60, 
+        "endMinute": 20, 
+        "startHour": 16, 
+        "day": 2, 
+        "startMinute": 20
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "4:20 PM", 
+        "end": "5:20 PM"
+      }
+    }, 
+    {
+      "venue": "Baby's All Right", 
+      "artist": "Cones", 
+      "subtitle": [
+        "Panache"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 20, 
+        "day": 2, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "8:15 PM", 
+        "end": "9:00 PM"
+      }
+    }, 
+    {
+      "venue": "Baby's All Right", 
+      "artist": "Happyness", 
+      "subtitle": [
+        "Panache"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 50, 
+        "endMinute": 40, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 50
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:50 PM", 
+        "end": "10:40 PM"
+      }
+    }, 
+    {
+      "venue": "Baby's All Right", 
+      "artist": "Aldous Harding", 
+      "subtitle": [
+        "AdHoc", 
+        "BrooklynVegan", 
+        "Panache Booking"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 50, 
+        "endMinute": 30, 
+        "startHour": 22, 
+        "day": 2, 
+        "startMinute": 40
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "10:40 PM", 
+        "end": "11:30 PM"
+      }
+    }, 
+    {
+      "venue": "Baby's All Right", 
+      "artist": "PONY", 
+      "subtitle": [
+        "Terrorbird"
+      ], 
+      "time": {
+        "endHour": 13, 
+        "duration": 780, 
+        "endMinute": 20, 
+        "startHour": 24, 
+        "day": 2, 
+        "startMinute": 20
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "12:20 PM", 
+        "end": "1:20 PM"
+      }
+    }
+  ], 
+  "Brooklyn Bazaar": [
+    {
+      "venue": "Brooklyn Bazaar", 
+      "artist": "Leapling", 
+      "subtitle": [
+        "PopGun"
+      ], 
+      "time": {
+        "endHour": 20, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 19, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "7:30 PM", 
+        "end": "8:30 PM"
+      }
+    }, 
+    {
+      "venue": "Brooklyn Bazaar", 
+      "artist": "Air Waves", 
+      "subtitle": [
+        "PopGun"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 20, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "8:30 PM", 
+        "end": "9:30 PM"
+      }
+    }, 
+    {
+      "venue": "Brooklyn Bazaar", 
+      "artist": "Sales", 
+      "subtitle": [
+        "PopGun"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 21, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "9:30 PM", 
+        "end": "10:30 PM"
+      }
+    }, 
+    {
+      "venue": "Brooklyn Bazaar", 
+      "artist": "Foodman (aka \u98df\u54c1\u307e\u3064\u308a)", 
+      "subtitle": [
+        "Orange Milk Records"
+      ], 
+      "time": {
+        "endHour": 1, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 0, 
+        "day": 1, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "12:15 AM", 
+        "end": "1:00 AM"
+      }
+    }, 
+    {
+      "venue": "Brooklyn Bazaar", 
+      "artist": "Container", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 2, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 1, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "1:00 AM", 
+        "end": "2:00 AM"
+      }
+    }, 
+    {
+      "venue": "Brooklyn Bazaar", 
+      "artist": "JLIN", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 3, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 2, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "2:00 AM", 
+        "end": "3:00 AM"
+      }
+    }, 
+    {
+      "venue": "Brooklyn Bazaar", 
+      "artist": "Animal Show", 
+      "subtitle": [
+        "Scenic"
+      ], 
+      "time": {
+        "endHour": 20, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 19, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "7:30 PM", 
+        "end": "8:15 PM"
+      }
+    }, 
+    {
+      "venue": "Brooklyn Bazaar", 
+      "artist": "Baby Shakes", 
+      "subtitle": [
+        "Scenic"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 20, 
+        "day": 1, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "8:15 PM", 
+        "end": "9:00 PM"
+      }
+    }, 
+    {
+      "venue": "Brooklyn Bazaar", 
+      "artist": "Born Loose", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:00 PM", 
+        "end": "9:45 PM"
+      }
+    }, 
+    {
+      "venue": "Brooklyn Bazaar", 
+      "artist": "Giuda", 
+      "subtitle": [
+        "Scenic"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:45 PM", 
+        "end": "10:30 PM"
+      }
+    }, 
+    {
+      "venue": "Brooklyn Bazaar", 
+      "artist": "Destruction Unit", 
+      "subtitle": [
+        "Sacred Bones 10th Anniversary"
+      ], 
+      "time": {
+        "endHour": 1, 
+        "duration": 30, 
+        "endMinute": 0, 
+        "startHour": 0, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "12:30 AM", 
+        "end": "1:00 AM"
+      }
+    }, 
+    {
+      "venue": "Brooklyn Bazaar", 
+      "artist": "Institute", 
+      "subtitle": [
+        "Sacred Bones 10th Anniversary"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 20, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "8:00 PM", 
+        "end": "9:00 PM"
+      }
+    }, 
+    {
+      "venue": "Brooklyn Bazaar", 
+      "artist": "Pop. 1280", 
+      "subtitle": [
+        "Sacred Bones 10th Anniversary", 
+        "Ears To Feed", 
+        "Impose"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:00 PM", 
+        "end": "9:45 PM"
+      }
+    }, 
+    {
+      "venue": "Brooklyn Bazaar", 
+      "artist": "The Hunt", 
+      "subtitle": [
+        "Sacred Bones 10th Anniversary"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 45, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:45 PM", 
+        "end": "10:45 PM"
+      }
+    }, 
+    {
+      "venue": "Brooklyn Bazaar", 
+      "artist": "PHarmakon", 
+      "subtitle": [
+        "Sacred Bones 10th Anniversary"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 22, 
+        "day": 2, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "10:45 PM", 
+        "end": "11:30 PM"
+      }
+    }, 
+    {
+      "venue": "Brooklyn Bazaar", 
+      "artist": "Gary War", 
+      "subtitle": [
+        "Sacred Bones 10th Anniversary"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 23, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "11:30 PM", 
+        "end": "12:30 AM"
+      }
+    }
+  ], 
+  "Brooklyn Bowl": [
+    {
+      "venue": "Brooklyn Bowl", 
+      "artist": "Jonathan Toubin", 
+      "subtitle": [
+        "Bowl Train"
+      ], 
+      "time": {
+        "endHour": 3, 
+        "duration": 180, 
+        "endMinute": 0, 
+        "startHour": 0, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "12:00 AM", 
+        "end": "3:00 AM"
+      }
+    }
+  ], 
+  "Cape House": [
+    {
+      "venue": "Cape House", 
+      "artist": "Mezzanine Swimmers", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 20, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 19, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "7:30 PM", 
+        "end": "8:30 PM"
+      }
+    }, 
+    {
+      "venue": "Cape House", 
+      "artist": "a place both wonderful and strange", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 21, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 20, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "8:30 PM", 
+        "end": "9:30 PM"
+      }
+    }, 
+    {
+      "venue": "Cape House", 
+      "artist": "Ritual Humor", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 21, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "9:30 PM", 
+        "end": "10:30 PM"
+      }
+    }, 
+    {
+      "venue": "Cape House", 
+      "artist": "DOOMSQUAD", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 22, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "10:30 PM", 
+        "end": "11:30 PM"
+      }
+    }, 
+    {
+      "venue": "Cape House", 
+      "artist": "Honnda", 
+      "subtitle": [
+        "Orange Milk Records"
+      ], 
+      "time": {
+        "endHour": 1, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 0, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "12:30 AM", 
+        "end": "1:15 AM"
+      }
+    }, 
+    {
+      "venue": "Cape House", 
+      "artist": "Little Racer", 
+      "subtitle": [
+        "Reheated Spaghetti"
+      ], 
+      "time": {
+        "endHour": 19, 
+        "duration": 30, 
+        "endMinute": 30, 
+        "startHour": 19, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "7:00 PM", 
+        "end": "7:30 PM"
+      }
+    }, 
+    {
+      "venue": "Cape House", 
+      "artist": "Grim Streaker", 
+      "subtitle": [
+        "Supercrush Studio", 
+        "Paper Garden Records", 
+        "Greenpointers.com", 
+        "Reheated Spaghetti", 
+        "PopGun", 
+        "Campers' Rule", 
+        "Carabella"
+      ], 
+      "time": {
+        "endHour": 20, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 19, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "7:30 PM", 
+        "end": "8:15 PM"
+      }
+    }, 
+    {
+      "venue": "Cape House", 
+      "artist": "Dead Stars", 
+      "subtitle": [
+        "Supercrush Studio", 
+        "Paper Garden Records", 
+        "Greenpointers.com |Reheated Spaghetti", 
+        "El Goodo", 
+        "Noise Love", 
+        "Thursdays for the Cause"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 20, 
+        "day": 1, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "8:15 PM", 
+        "end": "9:00 PM"
+      }
+    }, 
+    {
+      "venue": "Cape House", 
+      "artist": "Slang King", 
+      "subtitle": [
+        "Reheated Spaghetti"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:00 PM", 
+        "end": "9:45 PM"
+      }
+    }, 
+    {
+      "venue": "Cape House", 
+      "artist": "Dead Leaf Echo", 
+      "subtitle": [
+        "PaperCup", 
+        "Indie Shuffle", 
+        "Reheated Spaghetti"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:45 PM", 
+        "end": "10:30 PM"
+      }
+    }, 
+    {
+      "venue": "Cape House", 
+      "artist": "Sharkmuffin", 
+      "subtitle": [
+        "Reheated Spaghetti"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 22, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "10:30 PM", 
+        "end": "11:15 PM"
+      }
+    }, 
+    {
+      "venue": "Cape House", 
+      "artist": "Machine Girl", 
+      "subtitle": [
+        "Orange Milk Records"
+      ], 
+      "time": {
+        "endHour": 2, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 1, 
+        "day": 2, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "1:15 AM", 
+        "end": "2:00 AM"
+      }
+    }, 
+    {
+      "venue": "Cape House", 
+      "artist": "Darren Keen", 
+      "subtitle": [
+        "Orange Milk Records"
+      ], 
+      "time": {
+        "endHour": 2, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 2, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "2:00 AM", 
+        "end": "2:45 AM"
+      }
+    }, 
+    {
+      "venue": "Cape House", 
+      "artist": "Maharadja Sweets", 
+      "subtitle": [
+        "Orange Milk Records"
+      ], 
+      "time": {
+        "endHour": 20, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 20, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "8:00 PM", 
+        "end": "8:45 PM"
+      }
+    }, 
+    {
+      "venue": "Cape House", 
+      "artist": "G.S. Sultan", 
+      "subtitle": [
+        "Orange Milk Records"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 20, 
+        "day": 2, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "8:45 PM", 
+        "end": "9:30 PM"
+      }
+    }, 
+    {
+      "venue": "Cape House", 
+      "artist": "Death's Dynamic Shroud.wmv", 
+      "subtitle": [
+        "Orange Milk"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:30 PM", 
+        "end": "10:15 PM"
+      }
+    }, 
+    {
+      "venue": "Cape House", 
+      "artist": "Giant Claw", 
+      "subtitle": [
+        "Orange Milk"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 2, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "10:15 PM", 
+        "end": "11:00 PM"
+      }
+    }, 
+    {
+      "venue": "Cape House", 
+      "artist": "Foodman (aka \u98df\u54c1\u307e\u3064\u308a)", 
+      "subtitle": [
+        "Orange Milk Records"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 23, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "11:00 PM", 
+        "end": "11:45 PM"
+      }
+    }, 
+    {
+      "venue": "Cape House", 
+      "artist": "Kate NV", 
+      "subtitle": [
+        "Orange Milk Records"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 23, 
+        "day": 2, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "11:45 PM", 
+        "end": "12:30 AM"
+      }
+    }
+  ], 
+  "Gold Sounds": [
+    {
+      "venue": "Gold Sounds", 
+      "artist": "Salt Cathedral", 
+      "subtitle": [
+        "Cigar City MGMT", 
+        "Wild Honey Pie presents The Beehive"
+      ], 
+      "time": {
+        "endHour": 1, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 0, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "12:00 AM", 
+        "end": "1:00 AM"
+      }
+    }, 
+    {
+      "venue": "Gold Sounds", 
+      "artist": "Parrot Dream", 
+      "subtitle": [
+        "Cigar City MGMT"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 20, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "8:00 PM", 
+        "end": "9:00 PM"
+      }
+    }, 
+    {
+      "venue": "Gold Sounds", 
+      "artist": "Yucky Duster", 
+      "subtitle": [
+        "Cigar City MGMT"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "9:00 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "Gold Sounds", 
+      "artist": "Fruit & Flowers", 
+      "subtitle": [
+        "Cigar City MGMT"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "10:00 PM", 
+        "end": "11:00 PM"
+      }
+    }, 
+    {
+      "venue": "Gold Sounds", 
+      "artist": "Dirty Dishes", 
+      "subtitle": [
+        "Cigar City MGMT"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 23, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "11:00 PM", 
+        "end": "12:00 AM"
+      }
+    }, 
+    {
+      "venue": "Gold Sounds", 
+      "artist": "Wild Pink", 
+      "subtitle": [
+        "Tiny Engines"
+      ], 
+      "time": {
+        "endHour": 20, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 20, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "8:00 PM", 
+        "end": "8:45 PM"
+      }
+    }, 
+    {
+      "venue": "Gold Sounds", 
+      "artist": "Personal Space", 
+      "subtitle": [
+        "Tiny Engines", 
+        "Golden Parachute"
+      ], 
+      "time": {
+        "endHour": 20, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 20, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "8:00 PM", 
+        "end": "8:45 PM"
+      }
+    }, 
+    {
+      "venue": "Gold Sounds", 
+      "artist": "Jouska", 
+      "subtitle": [
+        "Tiny Engines"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:30 PM", 
+        "end": "10:15 PM"
+      }
+    }, 
+    {
+      "venue": "Gold Sounds", 
+      "artist": "Thelma", 
+      "subtitle": [
+        "Exploding in Sound Records", 
+        "Golden Parachute", 
+        "Tiny Engines"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 1, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "10:15 PM", 
+        "end": "11:00 PM"
+      }
+    }, 
+    {
+      "venue": "Gold Sounds", 
+      "artist": "Peaer", 
+      "subtitle": [
+        "PopGun", 
+        "Exploding in Sound Records", 
+        "Golden Parachute", 
+        "Tiny Engines"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 23, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "11:00 PM", 
+        "end": "12:00 AM"
+      }
+    }
+  ], 
+  "Good Room": [
+    {
+      "venue": "Good Room", 
+      "artist": "Total Freedom", 
+      "subtitle": [
+        "Tinnitus", 
+        "Northside", 
+        "AdHoc"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 75, 
+        "endMinute": 45, 
+        "startHour": 20, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "8:30 PM", 
+        "end": "9:45 PM"
+      }
+    }, 
+    {
+      "venue": "Good Room", 
+      "artist": "Moor Mother", 
+      "subtitle": [
+        "Tinnitus", 
+        "Northside", 
+        "AdHoc"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 21, 
+        "day": 0, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "9:45 PM", 
+        "end": "10:30 PM"
+      }
+    }, 
+    {
+      "venue": "Good Room", 
+      "artist": "Elysia Crampton", 
+      "subtitle": [
+        "Tinnitus", 
+        "Northside", 
+        "AdHoc"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 22, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "10:30 PM", 
+        "end": "11:15 PM"
+      }
+    }
+  ], 
+  "Knitting Factory": [
+    {
+      "venue": "Knitting Factory", 
+      "artist": "Eartheater", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 21, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 20, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "8:00 PM", 
+        "end": "9:00 PM"
+      }
+    }, 
+    {
+      "venue": "Knitting Factory", 
+      "artist": "Amber Arcades", 
+      "subtitle": [
+        "Dutch Culture USA"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "9:00 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "Knitting Factory", 
+      "artist": "No Joy", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "10:00 PM", 
+        "end": "11:00 PM"
+      }
+    }, 
+    {
+      "venue": "Knitting Factory", 
+      "artist": "I.O.D", 
+      "subtitle": [
+        "Cypher League", 
+        "Northside present The Pull Up"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 30, 
+        "endMinute": 30, 
+        "startHour": 0, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "12:00 AM", 
+        "end": "12:30 AM"
+      }
+    }, 
+    {
+      "venue": "Knitting Factory", 
+      "artist": "Rothstein", 
+      "subtitle": [
+        "Cypher League", 
+        "Northside present The Pull Up"
+      ], 
+      "time": {
+        "endHour": 1, 
+        "duration": 30, 
+        "endMinute": 0, 
+        "startHour": 0, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "12:30 AM", 
+        "end": "1:00 AM"
+      }
+    }, 
+    {
+      "venue": "Knitting Factory", 
+      "artist": "Radamiz", 
+      "subtitle": [
+        "Cypher League", 
+        "Northside present The Pull Up"
+      ], 
+      "time": {
+        "endHour": 1, 
+        "duration": 35, 
+        "endMinute": 35, 
+        "startHour": 1, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "1:00 AM", 
+        "end": "1:35 AM"
+      }
+    }, 
+    {
+      "venue": "Knitting Factory", 
+      "artist": "Boogie", 
+      "subtitle": [
+        "Cypher League", 
+        "Northside present The Pull Up"
+      ], 
+      "time": {
+        "endHour": 2, 
+        "duration": 25, 
+        "endMinute": 0, 
+        "startHour": 1, 
+        "day": 1, 
+        "startMinute": 35
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "1:35 AM", 
+        "end": "2:00 AM"
+      }
+    }, 
+    {
+      "venue": "Knitting Factory", 
+      "artist": "Synead", 
+      "subtitle": [
+        "Move Forward Music"
+      ], 
+      "time": {
+        "endHour": 20, 
+        "duration": 20, 
+        "endMinute": 20, 
+        "startHour": 20, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "8:00 PM", 
+        "end": "8:20 PM"
+      }
+    }, 
+    {
+      "venue": "Knitting Factory", 
+      "artist": "Deem Spencer", 
+      "subtitle": [
+        "Move Forward Music"
+      ], 
+      "time": {
+        "endHour": 20, 
+        "duration": 30, 
+        "endMinute": 50, 
+        "startHour": 20, 
+        "day": 1, 
+        "startMinute": 20
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "8:20 PM", 
+        "end": "8:50 PM"
+      }
+    }, 
+    {
+      "venue": "Knitting Factory", 
+      "artist": "Tangina Stone", 
+      "subtitle": [
+        "Move Forward Music"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 40, 
+        "endMinute": 30, 
+        "startHour": 20, 
+        "day": 1, 
+        "startMinute": 50
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "8:50 PM", 
+        "end": "9:30 PM"
+      }
+    }, 
+    {
+      "venue": "Knitting Factory", 
+      "artist": "Adrian Daniel", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:30 PM", 
+        "end": "10:15 PM"
+      }
+    }, 
+    {
+      "venue": "Knitting Factory", 
+      "artist": "Denitia", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 23, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 1, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "10:15 PM", 
+        "end": "11:00 PM"
+      }
+    }, 
+    {
+      "venue": "Knitting Factory", 
+      "artist": "DJ Yung Neil", 
+      "subtitle": [
+        "Cypher League", 
+        "Northside present The Pull Up"
+      ], 
+      "time": {
+        "endHour": 1, 
+        "duration": 90, 
+        "endMinute": 0, 
+        "startHour": 23, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "11:30 PM", 
+        "end": "1:00 AM"
+      }
+    }, 
+    {
+      "venue": "Knitting Factory", 
+      "artist": "Frances Rose", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 1, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 0, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "12:00 AM", 
+        "end": "1:00 AM"
+      }
+    }, 
+    {
+      "venue": "Knitting Factory", 
+      "artist": "Oracles", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 2, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 1, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "1:00 AM", 
+        "end": "2:00 AM"
+      }
+    }, 
+    {
+      "venue": "Knitting Factory", 
+      "artist": "Mobley", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 3, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 2, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "2:00 AM", 
+        "end": "3:00 AM"
+      }
+    }, 
+    {
+      "venue": "Knitting Factory", 
+      "artist": "Gold Child", 
+      "subtitle": [
+        "Audiofemme", 
+        "glamgare"
+      ], 
+      "time": {
+        "endHour": 13, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 13, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "1:00 PM", 
+        "end": "1:45 PM"
+      }
+    }, 
+    {
+      "venue": "Knitting Factory", 
+      "artist": "Letters To Nepal", 
+      "subtitle": [
+        "Audiofemme", 
+        "glamgare"
+      ], 
+      "time": {
+        "endHour": 14, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 13, 
+        "day": 2, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "1:45 PM", 
+        "end": "2:30 PM"
+      }
+    }, 
+    {
+      "venue": "Knitting Factory", 
+      "artist": "Kinder Than Wolves", 
+      "subtitle": [
+        "Audiofemme", 
+        "glamgare"
+      ], 
+      "time": {
+        "endHour": 15, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 14, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "2:30 PM", 
+        "end": "3:15 PM"
+      }
+    }, 
+    {
+      "venue": "Knitting Factory", 
+      "artist": "Girl Skin", 
+      "subtitle": [
+        "Audiofemme", 
+        "glamgare"
+      ], 
+      "time": {
+        "endHour": 16, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 15, 
+        "day": 2, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "3:15 PM", 
+        "end": "4:00 PM"
+      }
+    }, 
+    {
+      "venue": "Knitting Factory", 
+      "artist": "Josh Jacobson", 
+      "subtitle": [
+        "Audiofemme", 
+        "glamgare"
+      ], 
+      "time": {
+        "endHour": 16, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 16, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "4:00 PM", 
+        "end": "4:45 PM"
+      }
+    }, 
+    {
+      "venue": "Knitting Factory", 
+      "artist": "Horse Jumper of Love", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 20, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 20, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "8:00 PM", 
+        "end": "8:45 PM"
+      }
+    }, 
+    {
+      "venue": "Knitting Factory", 
+      "artist": "Spencer Radcliffe & Everyone Else", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 20, 
+        "day": 2, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "8:45 PM", 
+        "end": "9:30 PM"
+      }
+    }, 
+    {
+      "venue": "Knitting Factory", 
+      "artist": "Elvis Depressedly", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:30 PM", 
+        "end": "10:15 PM"
+      }
+    }, 
+    {
+      "venue": "Knitting Factory", 
+      "artist": "Blonde Maze", 
+      "subtitle": [
+        "Audiofemme", 
+        "glamgare"
+      ], 
+      "time": {
+        "endHour": 13, 
+        "duration": 765, 
+        "endMinute": 0, 
+        "startHour": 24, 
+        "day": 2, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "12:15 PM", 
+        "end": "1:00 PM"
+      }
+    }
+  ], 
+  "Lantern Hall": [
+    {
+      "venue": "Lantern Hall", 
+      "artist": "Dentist", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 20, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "8:30 PM", 
+        "end": "9:15 PM"
+      }
+    }, 
+    {
+      "venue": "Lantern Hall", 
+      "artist": "Best Behavior", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 0, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "9:15 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "Lantern Hall", 
+      "artist": "Jody Porter and the Berlin Waltz", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 22, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "10:00 PM", 
+        "end": "10:45 PM"
+      }
+    }, 
+    {
+      "venue": "Lantern Hall", 
+      "artist": "Mama Juke", 
+      "subtitle": [
+        "Unit J Records"
+      ], 
+      "time": {
+        "endHour": 1, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 0, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "12:00 AM", 
+        "end": "1:00 AM"
+      }
+    }, 
+    {
+      "venue": "Lantern Hall", 
+      "artist": "Belle Skinner", 
+      "subtitle": [
+        "Unit J Records"
+      ], 
+      "time": {
+        "endHour": 17, 
+        "duration": 30, 
+        "endMinute": 30, 
+        "startHour": 17, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "5:00 PM", 
+        "end": "5:30 PM"
+      }
+    }, 
+    {
+      "venue": "Lantern Hall", 
+      "artist": "Niall Connolly", 
+      "subtitle": [
+        "Unit J Records"
+      ], 
+      "time": {
+        "endHour": 18, 
+        "duration": 30, 
+        "endMinute": 0, 
+        "startHour": 17, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "5:30 PM", 
+        "end": "6:00 PM"
+      }
+    }, 
+    {
+      "venue": "Lantern Hall", 
+      "artist": "All Types of Kinds", 
+      "subtitle": [
+        "Unit J Records"
+      ], 
+      "time": {
+        "endHour": 19, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 18, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "6:00 PM", 
+        "end": "7:00 PM"
+      }
+    }, 
+    {
+      "venue": "Lantern Hall", 
+      "artist": "Mizuna", 
+      "subtitle": [
+        "Unit J Records"
+      ], 
+      "time": {
+        "endHour": 20, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 19, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "7:00 PM", 
+        "end": "8:00 PM"
+      }
+    }, 
+    {
+      "venue": "Lantern Hall", 
+      "artist": "B.R. Mackie", 
+      "subtitle": [
+        "Unit J Records"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 20, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "8:00 PM", 
+        "end": "9:00 PM"
+      }
+    }, 
+    {
+      "venue": "Lantern Hall", 
+      "artist": "Maria Colores", 
+      "subtitle": [
+        "Unit J Records"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:00 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "Lantern Hall", 
+      "artist": "Hayes Peebles", 
+      "subtitle": [
+        "Unit J Records"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "10:00 PM", 
+        "end": "11:00 PM"
+      }
+    }, 
+    {
+      "venue": "Lantern Hall", 
+      "artist": "Megg Farrell", 
+      "subtitle": [
+        "Unit J Records"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 23, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "11:00 PM", 
+        "end": "12:00 AM"
+      }
+    }
+  ], 
+  "Little Skips": [
+    {
+      "venue": "Little Skips", 
+      "artist": "The Mells", 
+      "subtitle": [
+        "GP Stripex", 
+        "NYCDIY.XYZ"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 30, 
+        "endMinute": 0, 
+        "startHour": 20, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "8:30 PM", 
+        "end": "9:00 PM"
+      }
+    }, 
+    {
+      "venue": "Little Skips", 
+      "artist": "Fraidycat", 
+      "subtitle": [
+        "GP Stripex", 
+        "NYCDIY.XYZ"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 30, 
+        "endMinute": 30, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:00 PM", 
+        "end": "9:30 PM"
+      }
+    }, 
+    {
+      "venue": "Little Skips", 
+      "artist": "Dumb Wolves", 
+      "subtitle": [
+        "GP Stripex", 
+        "NYCDIY.XYZ"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 30, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:30 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "Little Skips", 
+      "artist": "Kate Mohanty", 
+      "subtitle": [
+        "GP Stripex", 
+        "NYCDIY.XYZ"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 30, 
+        "endMinute": 30, 
+        "startHour": 22, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "10:00 PM", 
+        "end": "10:30 PM"
+      }
+    }, 
+    {
+      "venue": "Little Skips", 
+      "artist": "Def.GRLS", 
+      "subtitle": [
+        "GP Stripex", 
+        "NYCDIY.XYZ"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 30, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "10:30 PM", 
+        "end": "11:00 PM"
+      }
+    }, 
+    {
+      "venue": "Little Skips", 
+      "artist": "Holy Tunics", 
+      "subtitle": [
+        "GP Stripex", 
+        "NYCDIY.XYZ"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 30, 
+        "endMinute": 30, 
+        "startHour": 23, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "11:00 PM", 
+        "end": "11:30 PM"
+      }
+    }, 
+    {
+      "venue": "Little Skips", 
+      "artist": "Sic Tic", 
+      "subtitle": [
+        "GP Stripex", 
+        "NYCDIY.XYZ"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 30, 
+        "endMinute": 0, 
+        "startHour": 23, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "11:30 PM", 
+        "end": "12:00 AM"
+      }
+    }
+  ], 
+  "Main Drag": [
+    {
+      "venue": "Main Drag", 
+      "artist": "Crosslegged", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 21, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 20, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "8:30 PM", 
+        "end": "9:30 PM"
+      }
+    }, 
+    {
+      "venue": "Main Drag", 
+      "artist": "Nassau", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 21, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "9:30 PM", 
+        "end": "10:30 PM"
+      }
+    }, 
+    {
+      "venue": "Main Drag", 
+      "artist": "Olden Yolk", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 22, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "10:30 PM", 
+        "end": "11:30 PM"
+      }
+    }, 
+    {
+      "venue": "Main Drag", 
+      "artist": "The Regrets", 
+      "subtitle": [
+        "El Goodo"
+      ], 
+      "time": {
+        "endHour": 20, 
+        "duration": 30, 
+        "endMinute": 30, 
+        "startHour": 20, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "8:00 PM", 
+        "end": "8:30 PM"
+      }
+    }, 
+    {
+      "venue": "Main Drag", 
+      "artist": "The Planes", 
+      "subtitle": [
+        "El Goodo"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 30, 
+        "endMinute": 0, 
+        "startHour": 20, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "8:30 PM", 
+        "end": "9:00 PM"
+      }
+    }, 
+    {
+      "venue": "Main Drag", 
+      "artist": "No Ice", 
+      "subtitle": [
+        "El Goodo"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 30, 
+        "endMinute": 30, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:00 PM", 
+        "end": "9:30 PM"
+      }
+    }, 
+    {
+      "venue": "Main Drag", 
+      "artist": "Thick", 
+      "subtitle": [
+        "Paper Scissors", 
+        "El Goodo"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 30, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:30 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "Main Drag", 
+      "artist": "Dead Stars", 
+      "subtitle": [
+        "Supercrush Studio", 
+        "Paper Garden Records", 
+        "Greenpointers.com |Reheated Spaghetti", 
+        "El Goodo", 
+        "Noise Love", 
+        "Thursdays for the Cause"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 30, 
+        "endMinute": 30, 
+        "startHour": 22, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "10:00 PM", 
+        "end": "10:30 PM"
+      }
+    }, 
+    {
+      "venue": "Main Drag", 
+      "artist": "Ursula Kennedy", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 20, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 20, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "8:00 PM", 
+        "end": "8:45 PM"
+      }
+    }, 
+    {
+      "venue": "Main Drag", 
+      "artist": "Sean Henry", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 20, 
+        "day": 2, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "8:45 PM", 
+        "end": "9:30 PM"
+      }
+    }, 
+    {
+      "venue": "Main Drag", 
+      "artist": "Yatta", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 23, 
+        "duration": 105, 
+        "endMinute": 15, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:30 PM", 
+        "end": "11:15 PM"
+      }
+    }
+  ], 
+  "Matchless": [
+    {
+      "venue": "Matchless", 
+      "artist": "Milan to Minsk", 
+      "subtitle": [
+        "Supercrush Studio", 
+        "Paper Garden Records", 
+        "Greenpointers.com"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 20, 
+        "day": 0, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "8:15 PM", 
+        "end": "9:00 PM"
+      }
+    }, 
+    {
+      "venue": "Matchless", 
+      "artist": "Debbie Downer", 
+      "subtitle": [
+        "Supercrush Studio", 
+        "Paper Garden Records", 
+        "Greenpointers.com"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 21, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "9:00 PM", 
+        "end": "9:45 PM"
+      }
+    }, 
+    {
+      "venue": "Matchless", 
+      "artist": "Dead Stars", 
+      "subtitle": [
+        "Supercrush Studio", 
+        "Paper Garden Records", 
+        "Greenpointers.com |Reheated Spaghetti", 
+        "El Goodo", 
+        "Noise Love", 
+        "Thursdays for the Cause"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 21, 
+        "day": 0, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "9:45 PM", 
+        "end": "10:30 PM"
+      }
+    }, 
+    {
+      "venue": "Matchless", 
+      "artist": "Grim Streaker", 
+      "subtitle": [
+        "Supercrush Studio", 
+        "Paper Garden Records", 
+        "Greenpointers.com", 
+        "Reheated Spaghetti", 
+        "PopGun", 
+        "Campers' Rule", 
+        "Carabella"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 22, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "10:30 PM", 
+        "end": "11:15 PM"
+      }
+    }, 
+    {
+      "venue": "Matchless", 
+      "artist": "Spritzer", 
+      "subtitle": [
+        "Supercrush Studio", 
+        "Paper Garden Records", 
+        "Greenpointers.com"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 23, 
+        "day": 0, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "11:15 PM", 
+        "end": "12:00 AM"
+      }
+    }, 
+    {
+      "venue": "Matchless", 
+      "artist": "Knight Terror", 
+      "subtitle": [
+        "In Blood"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 55, 
+        "endMinute": 15, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 20
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:20 PM", 
+        "end": "10:15 PM"
+      }
+    }, 
+    {
+      "venue": "Matchless", 
+      "artist": "Iconoclasm", 
+      "subtitle": [
+        "In Blood"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 15, 
+        "startHour": 22, 
+        "day": 1, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "10:15 PM", 
+        "end": "11:15 PM"
+      }
+    }, 
+    {
+      "venue": "Matchless", 
+      "artist": "Slashers", 
+      "subtitle": [
+        "In Blood"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 23, 
+        "day": 1, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "11:15 PM", 
+        "end": "12:00 AM"
+      }
+    }, 
+    {
+      "venue": "Matchless", 
+      "artist": "The Cringes", 
+      "subtitle": [
+        "Rocker Stalker", 
+        "Behind The Curtains"
+      ], 
+      "time": {
+        "endHour": 14, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 13, 
+        "day": 2, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "1:15 PM", 
+        "end": "2:00 PM"
+      }
+    }, 
+    {
+      "venue": "Matchless", 
+      "artist": "The Flux Machine", 
+      "subtitle": [
+        "Rocker Stalker", 
+        "Behind The Curtains"
+      ], 
+      "time": {
+        "endHour": 14, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 14, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "2:00 PM", 
+        "end": "2:45 PM"
+      }
+    }, 
+    {
+      "venue": "Matchless", 
+      "artist": "Onesie", 
+      "subtitle": [
+        "Rocker Stalker", 
+        "Behind The Curtains"
+      ], 
+      "time": {
+        "endHour": 15, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 14, 
+        "day": 2, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "2:45 PM", 
+        "end": "3:30 PM"
+      }
+    }, 
+    {
+      "venue": "Matchless", 
+      "artist": "Wild Sun", 
+      "subtitle": [
+        "Rocker Stalker", 
+        "Behind The Curtains"
+      ], 
+      "time": {
+        "endHour": 16, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 15, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "3:30 PM", 
+        "end": "4:15 PM"
+      }
+    }, 
+    {
+      "venue": "Matchless", 
+      "artist": "The Falling Birds", 
+      "subtitle": [
+        "Rocker Stalker", 
+        "Behind The Curtains"
+      ], 
+      "time": {
+        "endHour": 17, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 16, 
+        "day": 2, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "4:15 PM", 
+        "end": "5:00 PM"
+      }
+    }, 
+    {
+      "venue": "Matchless", 
+      "artist": "Fair Panic", 
+      "subtitle": [
+        "Rocker Stalker", 
+        "Behind The Curtains"
+      ], 
+      "time": {
+        "endHour": 17, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 17, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "5:00 PM", 
+        "end": "5:45 PM"
+      }
+    }, 
+    {
+      "venue": "Matchless", 
+      "artist": "Pussywolf", 
+      "subtitle": [
+        "Rocker Stalker", 
+        "Behind The Curtains"
+      ], 
+      "time": {
+        "endHour": 18, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 17, 
+        "day": 2, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "5:45 PM", 
+        "end": "6:30 PM"
+      }
+    }, 
+    {
+      "venue": "Matchless", 
+      "artist": "Super Natural Psycho", 
+      "subtitle": [
+        "Iron Pier Records"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 30, 
+        "endMinute": 0, 
+        "startHour": 20, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "8:30 PM", 
+        "end": "9:00 PM"
+      }
+    }, 
+    {
+      "venue": "Matchless", 
+      "artist": "Other Houses", 
+      "subtitle": [
+        "Iron Pier Records"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:00 PM", 
+        "end": "9:45 PM"
+      }
+    }, 
+    {
+      "venue": "Matchless", 
+      "artist": "Neaux", 
+      "subtitle": [
+        "Iron Pier Records"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:45 PM", 
+        "end": "10:30 PM"
+      }
+    }, 
+    {
+      "venue": "Matchless", 
+      "artist": "Wildhoney", 
+      "subtitle": [
+        "Iron Pier Records", 
+        "Ears to Feed", 
+        "Impose"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 22, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "10:30 PM", 
+        "end": "11:15 PM"
+      }
+    }
+  ], 
+  "McCarren Park": [
+    {
+      "venue": "McCarren Park", 
+      "artist": "Jay Som", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 19, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 18, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "6:30 PM", 
+        "end": "7:30 PM"
+      }
+    }, 
+    {
+      "venue": "McCarren Park", 
+      "artist": "Kamasi Washington", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 20, 
+        "duration": 75, 
+        "endMinute": 45, 
+        "startHour": 19, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "7:30 PM", 
+        "end": "8:45 PM"
+      }
+    }, 
+    {
+      "venue": "McCarren Park", 
+      "artist": "Dirty Projectors", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 21, 
+        "duration": 60, 
+        "endMinute": 45, 
+        "startHour": 20, 
+        "day": 0, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "8:45 PM", 
+        "end": "9:45 PM"
+      }
+    }, 
+    {
+      "venue": "McCarren Park", 
+      "artist": "Olukara", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 19, 
+        "duration": 30, 
+        "endMinute": 30, 
+        "startHour": 19, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "7:00 PM", 
+        "end": "7:30 PM"
+      }
+    }, 
+    {
+      "venue": "McCarren Park", 
+      "artist": "SAMMUS", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 20, 
+        "duration": 30, 
+        "endMinute": 20, 
+        "startHour": 19, 
+        "day": 1, 
+        "startMinute": 50
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "7:50 PM", 
+        "end": "8:20 PM"
+      }
+    }, 
+    {
+      "venue": "McCarren Park", 
+      "artist": "Dj Kool Herc", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 22, 
+        "duration": 75, 
+        "endMinute": 0, 
+        "startHour": 20, 
+        "day": 1, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "8:45 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "McCarren Park", 
+      "artist": "Saro", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 19, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 18, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "6:30 PM", 
+        "end": "7:30 PM"
+      }
+    }, 
+    {
+      "venue": "McCarren Park", 
+      "artist": "BJ the Chicago Kid", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 20, 
+        "duration": 75, 
+        "endMinute": 45, 
+        "startHour": 19, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "7:30 PM", 
+        "end": "8:45 PM"
+      }
+    }, 
+    {
+      "venue": "McCarren Park", 
+      "artist": "Miguel", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 21, 
+        "duration": 60, 
+        "endMinute": 45, 
+        "startHour": 20, 
+        "day": 2, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "8:45 PM", 
+        "end": "9:45 PM"
+      }
+    }, 
+    {
+      "venue": "McCarren Park", 
+      "artist": "Tony Molina", 
+      "subtitle": [
+        "Bloomsbury\u2019s 33 1/3 Series"
+      ], 
+      "time": {
+        "endHour": 16, 
+        "duration": 35, 
+        "endMinute": 5, 
+        "startHour": 15, 
+        "day": 3, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Sunday, 11 June 2017", 
+        "start": "3:30 PM", 
+        "end": "4:05 PM"
+      }
+    }, 
+    {
+      "venue": "McCarren Park", 
+      "artist": "Jeff Rosenstock", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 16, 
+        "duration": 50, 
+        "endMinute": 55, 
+        "startHour": 16, 
+        "day": 3, 
+        "startMinute": 5
+      }, 
+      "schedule": {
+        "date": "Sunday, 11 June 2017", 
+        "start": "4:05 PM", 
+        "end": "4:55 PM"
+      }
+    }, 
+    {
+      "venue": "McCarren Park", 
+      "artist": "The Hotelier", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 18, 
+        "duration": 55, 
+        "endMinute": 0, 
+        "startHour": 17, 
+        "day": 3, 
+        "startMinute": 5
+      }, 
+      "schedule": {
+        "date": "Sunday, 11 June 2017", 
+        "start": "5:05 PM", 
+        "end": "6:00 PM"
+      }
+    }, 
+    {
+      "venue": "McCarren Park", 
+      "artist": "Pup", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 19, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 18, 
+        "day": 3, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Sunday, 11 June 2017", 
+        "start": "6:00 PM", 
+        "end": "7:00 PM"
+      }
+    }, 
+    {
+      "venue": "McCarren Park", 
+      "artist": "Thursday", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 20, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 19, 
+        "day": 3, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Sunday, 11 June 2017", 
+        "start": "7:00 PM", 
+        "end": "8:00 PM"
+      }
+    }
+  ], 
+  "Muchmore's": [
+    {
+      "venue": "Muchmore's", 
+      "artist": "Nervous Dater", 
+      "subtitle": [
+        "Anchorless Records", 
+        "For It!"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 30, 
+        "endMinute": 30, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:00 PM", 
+        "end": "9:30 PM"
+      }
+    }, 
+    {
+      "venue": "Muchmore's", 
+      "artist": "Good Looking Friends", 
+      "subtitle": [
+        "Anchorless Records", 
+        "For It!"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 30, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:30 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "Muchmore's", 
+      "artist": "Hard Pass", 
+      "subtitle": [
+        "Anchorless Records", 
+        "For It!"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 30, 
+        "endMinute": 30, 
+        "startHour": 22, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "10:00 PM", 
+        "end": "10:30 PM"
+      }
+    }, 
+    {
+      "venue": "Muchmore's", 
+      "artist": "Early Riser", 
+      "subtitle": [
+        "Anchorless Records", 
+        "For It!"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 30, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "10:30 PM", 
+        "end": "11:00 PM"
+      }
+    }, 
+    {
+      "venue": "Muchmore's", 
+      "artist": "Anika Pyle", 
+      "subtitle": [
+        "Anchorless Records", 
+        "For It!"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 30, 
+        "endMinute": 30, 
+        "startHour": 23, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "11:00 PM", 
+        "end": "11:30 PM"
+      }
+    }, 
+    {
+      "venue": "Muchmore's", 
+      "artist": "Darkwing", 
+      "subtitle": [
+        "Paper Scissors"
+      ], 
+      "time": {
+        "endHour": 15, 
+        "duration": 100, 
+        "endMinute": 10, 
+        "startHour": 13, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "1:30 PM", 
+        "end": "3:10 PM"
+      }
+    }, 
+    {
+      "venue": "Muchmore's", 
+      "artist": "Rvby My Dear", 
+      "subtitle": [
+        "Paper Scissors"
+      ], 
+      "time": {
+        "endHour": 14, 
+        "duration": 40, 
+        "endMinute": 50, 
+        "startHour": 14, 
+        "day": 2, 
+        "startMinute": 10
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "2:10 PM", 
+        "end": "2:50 PM"
+      }
+    }, 
+    {
+      "venue": "Muchmore's", 
+      "artist": "The Coax", 
+      "subtitle": [
+        "Paper Scissors"
+      ], 
+      "time": {
+        "endHour": 15, 
+        "duration": 40, 
+        "endMinute": 30, 
+        "startHour": 14, 
+        "day": 2, 
+        "startMinute": 50
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "2:50 PM", 
+        "end": "3:30 PM"
+      }
+    }, 
+    {
+      "venue": "Muchmore's", 
+      "artist": "Blushed", 
+      "subtitle": [
+        "Paper Scissors"
+      ], 
+      "time": {
+        "endHour": 16, 
+        "duration": 30, 
+        "endMinute": 0, 
+        "startHour": 15, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "3:30 PM", 
+        "end": "4:00 PM"
+      }
+    }, 
+    {
+      "venue": "Muchmore's", 
+      "artist": "Secret Nudist Friends", 
+      "subtitle": [
+        "El Goodo", 
+        "Paper Scissors", 
+        "King Pizza"
+      ], 
+      "time": {
+        "endHour": 16, 
+        "duration": 40, 
+        "endMinute": 40, 
+        "startHour": 16, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "4:00 PM", 
+        "end": "4:40 PM"
+      }
+    }, 
+    {
+      "venue": "Muchmore's", 
+      "artist": "Thick", 
+      "subtitle": [
+        "Paper Scissors", 
+        "El Goodo"
+      ], 
+      "time": {
+        "endHour": 17, 
+        "duration": 40, 
+        "endMinute": 20, 
+        "startHour": 16, 
+        "day": 2, 
+        "startMinute": 40
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "4:40 PM", 
+        "end": "5:20 PM"
+      }
+    }, 
+    {
+      "venue": "Muchmore's", 
+      "artist": "Samantha", 
+      "subtitle": [
+        "Paper Scissors"
+      ], 
+      "time": {
+        "endHour": 18, 
+        "duration": 40, 
+        "endMinute": 0, 
+        "startHour": 17, 
+        "day": 2, 
+        "startMinute": 20
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "5:20 PM", 
+        "end": "6:00 PM"
+      }
+    }, 
+    {
+      "venue": "Muchmore's", 
+      "artist": "Saint Marx", 
+      "subtitle": [
+        "Invertebrate"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 40, 
+        "endMinute": 40, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:00 PM", 
+        "end": "9:40 PM"
+      }
+    }, 
+    {
+      "venue": "Muchmore's", 
+      "artist": "The Misters", 
+      "subtitle": [
+        "Invertebrate"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 40, 
+        "endMinute": 20, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 40
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:40 PM", 
+        "end": "10:20 PM"
+      }
+    }, 
+    {
+      "venue": "Muchmore's", 
+      "artist": "Goodman", 
+      "subtitle": [
+        "Invertebrate"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 40, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 2, 
+        "startMinute": 20
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "10:20 PM", 
+        "end": "11:00 PM"
+      }
+    }, 
+    {
+      "venue": "Muchmore's", 
+      "artist": "Your Dog", 
+      "subtitle": [
+        "Invertebrate"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 50, 
+        "endMinute": 50, 
+        "startHour": 23, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "11:00 PM", 
+        "end": "11:50 PM"
+      }
+    }, 
+    {
+      "venue": "Muchmore's", 
+      "artist": "Lady Pills", 
+      "subtitle": [
+        "Invertebrate"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 60, 
+        "endMinute": 50, 
+        "startHour": 23, 
+        "day": 2, 
+        "startMinute": 50
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "11:50 PM", 
+        "end": "12:50 AM"
+      }
+    }
+  ], 
+  "Music Hall of Williamsburg": [
+    {
+      "venue": "Music Hall of Williamsburg", 
+      "artist": "Aerial East", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 21, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "9:00 PM", 
+        "end": "9:45 PM"
+      }
+    }, 
+    {
+      "venue": "Music Hall of Williamsburg", 
+      "artist": "Cut Worms", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 21, 
+        "day": 0, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "9:45 PM", 
+        "end": "10:30 PM"
+      }
+    }, 
+    {
+      "venue": "Music Hall of Williamsburg", 
+      "artist": "Mild High Club", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 22, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "10:30 PM", 
+        "end": "11:30 PM"
+      }
+    }, 
+    {
+      "venue": "Music Hall of Williamsburg", 
+      "artist": "ABLEBODY", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:00 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "Music Hall of Williamsburg", 
+      "artist": "Beverly", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "10:00 PM", 
+        "end": "11:00 PM"
+      }
+    }, 
+    {
+      "venue": "Music Hall of Williamsburg", 
+      "artist": "The Pains Of Being Pure At Heart", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 0, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 23, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "11:00 PM", 
+        "end": "12:00 AM"
+      }
+    }, 
+    {
+      "venue": "Music Hall of Williamsburg", 
+      "artist": "Ohtis", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:00 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "Music Hall of Williamsburg", 
+      "artist": "Timber Timbre", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "10:00 PM", 
+        "end": "11:00 PM"
+      }
+    }
+  ], 
+  "National Sawdust": [
+    {
+      "venue": "National Sawdust", 
+      "artist": "Un Blonde", 
+      "subtitle": [
+        "Northside Festival", 
+        "France Rocks Summerfest", 
+        "POP Montreal"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 21, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "9:30 PM", 
+        "end": "10:30 PM"
+      }
+    }, 
+    {
+      "venue": "National Sawdust", 
+      "artist": "Emel Mathlouthi", 
+      "subtitle": [
+        "Northside Festival", 
+        "France Rocks Summerfest", 
+        "POP Montreal"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 22, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "10:30 PM", 
+        "end": "11:30 PM"
+      }
+    }, 
+    {
+      "venue": "National Sawdust", 
+      "artist": "L\u00e6titia Sadier", 
+      "subtitle": [
+        "Northside Festival", 
+        "France Rocks Summerfest", 
+        "POP Montreal Present"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 23, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "11:30 PM", 
+        "end": "12:30 AM"
+      }
+    }, 
+    {
+      "venue": "National Sawdust", 
+      "artist": "Julianna Barwick", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 21, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 20, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "8:00 PM", 
+        "end": "9:00 PM"
+      }
+    }, 
+    {
+      "venue": "National Sawdust", 
+      "artist": "William Basinski", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:00 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "National Sawdust", 
+      "artist": "Georgia", 
+      "subtitle": [
+        "The Creative Independent"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:00 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "National Sawdust", 
+      "artist": "Julia Holter (solo)", 
+      "subtitle": [
+        "The Creative Independent"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "10:00 PM", 
+        "end": "11:00 PM"
+      }
+    }
+  ], 
+  "Our Wicked Lady": [
+    {
+      "venue": "Our Wicked Lady", 
+      "artist": "Harvey Lush & His Orchestra", 
+      "subtitle": [
+        "Noise Love + Thursdays for the Cause"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 20, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "8:30 PM", 
+        "end": "9:15 PM"
+      }
+    }, 
+    {
+      "venue": "Our Wicked Lady", 
+      "artist": "Ernie", 
+      "subtitle": [
+        "Noise Love + Thursdays for the Cause"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 0, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "9:15 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "Our Wicked Lady", 
+      "artist": "A Deer A Horse", 
+      "subtitle": [
+        "Noise Love + Thursdays for the Cause"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 22, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "10:00 PM", 
+        "end": "10:45 PM"
+      }
+    }, 
+    {
+      "venue": "Our Wicked Lady", 
+      "artist": "Paperhaus", 
+      "subtitle": [
+        "Noise Love + Thursdays for the Cause"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 22, 
+        "day": 0, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "10:45 PM", 
+        "end": "11:30 PM"
+      }
+    }, 
+    {
+      "venue": "Our Wicked Lady", 
+      "artist": "Dead Stars", 
+      "subtitle": [
+        "Supercrush Studio", 
+        "Paper Garden Records", 
+        "Greenpointers.com |Reheated Spaghetti", 
+        "El Goodo", 
+        "Noise Love", 
+        "Thursdays for the Cause"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 23, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "11:30 PM", 
+        "end": "12:15 AM"
+      }
+    }, 
+    {
+      "venue": "Our Wicked Lady", 
+      "artist": "Native Sun", 
+      "subtitle": [
+        "PaperCup", 
+        "Indie Shuffle"
+      ], 
+      "time": {
+        "endHour": 20, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 20, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "8:00 PM", 
+        "end": "8:45 PM"
+      }
+    }, 
+    {
+      "venue": "Our Wicked Lady", 
+      "artist": "Raccoon Fighter", 
+      "subtitle": [
+        "PaperCup", 
+        "Indie Shuffle"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 20, 
+        "day": 1, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "8:45 PM", 
+        "end": "9:30 PM"
+      }
+    }, 
+    {
+      "venue": "Our Wicked Lady", 
+      "artist": "Wet Leather", 
+      "subtitle": [
+        "PaperCup", 
+        "Indie Shuffle"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:30 PM", 
+        "end": "10:15 PM"
+      }
+    }, 
+    {
+      "venue": "Our Wicked Lady", 
+      "artist": "Obliques", 
+      "subtitle": [
+        "PaperCup", 
+        "Indie Shuffle"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 1, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "10:15 PM", 
+        "end": "11:00 PM"
+      }
+    }, 
+    {
+      "venue": "Our Wicked Lady", 
+      "artist": "Dead Leaf Echo", 
+      "subtitle": [
+        "PaperCup", 
+        "Indie Shuffle", 
+        "Reheated Spaghetti"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 23, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "11:00 PM", 
+        "end": "11:45 PM"
+      }
+    }, 
+    {
+      "venue": "Our Wicked Lady", 
+      "artist": "Colatura", 
+      "subtitle": [
+        "PopGun"
+      ], 
+      "time": {
+        "endHour": 16, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 15, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "3:00 PM", 
+        "end": "4:00 PM"
+      }
+    }, 
+    {
+      "venue": "Our Wicked Lady", 
+      "artist": "Grim Streaker", 
+      "subtitle": [
+        "Supercrush Studio", 
+        "Paper Garden Records", 
+        "Greenpointers.com", 
+        "Reheated Spaghetti", 
+        "PopGun", 
+        "Campers' Rule", 
+        "Carabella"
+      ], 
+      "time": {
+        "endHour": 17, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 16, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "4:00 PM", 
+        "end": "5:00 PM"
+      }
+    }, 
+    {
+      "venue": "Our Wicked Lady", 
+      "artist": "Fern Mayo", 
+      "subtitle": [
+        "PopGun"
+      ], 
+      "time": {
+        "endHour": 18, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 17, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "5:00 PM", 
+        "end": "6:00 PM"
+      }
+    }, 
+    {
+      "venue": "Our Wicked Lady", 
+      "artist": "Jacky Winter", 
+      "subtitle": [
+        "PopGun"
+      ], 
+      "time": {
+        "endHour": 19, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 18, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "6:00 PM", 
+        "end": "7:00 PM"
+      }
+    }, 
+    {
+      "venue": "Our Wicked Lady", 
+      "artist": "Den-Mate", 
+      "subtitle": [
+        "PopGun"
+      ], 
+      "time": {
+        "endHour": 20, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 19, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "7:00 PM", 
+        "end": "8:00 PM"
+      }
+    }, 
+    {
+      "venue": "Our Wicked Lady", 
+      "artist": "Peaer", 
+      "subtitle": [
+        "PopGun", 
+        "Exploding in Sound Records", 
+        "Golden Parachute", 
+        "Tiny Engines"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 20, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "8:00 PM", 
+        "end": "9:00 PM"
+      }
+    }, 
+    {
+      "venue": "Our Wicked Lady", 
+      "artist": "Suburban Living", 
+      "subtitle": [
+        "PopGun"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:00 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "Our Wicked Lady", 
+      "artist": "Psychic Twin", 
+      "subtitle": [
+        "PopGun"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "10:00 PM", 
+        "end": "11:00 PM"
+      }
+    }
+  ], 
+  "Park Church Co-Op": [
+    {
+      "venue": "Park Church Co-Op", 
+      "artist": "M. Lamar", 
+      "subtitle": [
+        "AdHoc", 
+        "BrooklynVegan"
+      ], 
+      "time": {
+        "endHour": 20, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 20, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "8:00 PM", 
+        "end": "8:45 PM"
+      }
+    }, 
+    {
+      "venue": "Park Church Co-Op", 
+      "artist": "Tiny Hazard", 
+      "subtitle": [
+        "AdHoc", 
+        "BrooklynVegan"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 20, 
+        "day": 0, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "8:45 PM", 
+        "end": "9:30 PM"
+      }
+    }, 
+    {
+      "venue": "Park Church Co-Op", 
+      "artist": "Aldous Harding", 
+      "subtitle": [
+        "AdHoc", 
+        "BrooklynVegan", 
+        "Panache Booking"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 21, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "9:30 PM", 
+        "end": "10:15 PM"
+      }
+    }, 
+    {
+      "venue": "Park Church Co-Op", 
+      "artist": "Gabi", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:00 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "Park Church Co-Op", 
+      "artist": "Kristin Kontrol", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "10:00 PM", 
+        "end": "11:00 PM"
+      }
+    }, 
+    {
+      "venue": "Park Church Co-Op", 
+      "artist": "The Relatives", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 20, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 19, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "7:30 PM", 
+        "end": "8:15 PM"
+      }
+    }, 
+    {
+      "venue": "Park Church Co-Op", 
+      "artist": "Brother Brothers", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 20, 
+        "day": 2, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "8:15 PM", 
+        "end": "9:00 PM"
+      }
+    }, 
+    {
+      "venue": "Park Church Co-Op", 
+      "artist": "Twain", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:00 PM", 
+        "end": "9:45 PM"
+      }
+    }, 
+    {
+      "venue": "Park Church Co-Op", 
+      "artist": "BIG THIEF", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:45 PM", 
+        "end": "10:30 PM"
+      }
+    }
+  ], 
+  "Pete's Candy Store": [
+    {
+      "venue": "Pete's Candy Store", 
+      "artist": "Elizabeth Devlin", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 21, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 20, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "8:30 PM", 
+        "end": "9:30 PM"
+      }
+    }, 
+    {
+      "venue": "Pete's Candy Store", 
+      "artist": "Medium Mystic", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 21, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "9:30 PM", 
+        "end": "10:30 PM"
+      }
+    }, 
+    {
+      "venue": "Pete's Candy Store", 
+      "artist": "Mappa Mundi", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 22, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "10:30 PM", 
+        "end": "11:30 PM"
+      }
+    }, 
+    {
+      "venue": "Pete's Candy Store", 
+      "artist": "Soul Worm", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 0, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 23, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "11:30 PM", 
+        "end": "12:30 AM"
+      }
+    }, 
+    {
+      "venue": "Pete's Candy Store", 
+      "artist": "Errmine", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:00 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "Pete's Candy Store", 
+      "artist": "Beiju", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "10:00 PM", 
+        "end": "11:00 PM"
+      }
+    }, 
+    {
+      "venue": "Pete's Candy Store", 
+      "artist": "Sam Himself", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 0, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 23, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "11:00 PM", 
+        "end": "12:00 AM"
+      }
+    }, 
+    {
+      "venue": "Pete's Candy Store", 
+      "artist": "Animah", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 17, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 16, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "4:00 PM", 
+        "end": "5:00 PM"
+      }
+    }, 
+    {
+      "venue": "Pete's Candy Store", 
+      "artist": "The Spookfish", 
+      "subtitle": [
+        "Fire Talk"
+      ], 
+      "time": {
+        "endHour": 19, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 18, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "6:00 PM", 
+        "end": "7:00 PM"
+      }
+    }, 
+    {
+      "venue": "Pete's Candy Store", 
+      "artist": "BETS", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 20, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 19, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "7:00 PM", 
+        "end": "8:00 PM"
+      }
+    }, 
+    {
+      "venue": "Pete's Candy Store", 
+      "artist": "Quicksilver Daydream", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 21, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 20, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "8:00 PM", 
+        "end": "9:00 PM"
+      }
+    }, 
+    {
+      "venue": "Pete's Candy Store", 
+      "artist": "Dream Eaters", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:00 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "Pete's Candy Store", 
+      "artist": "Julep Maisey", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "10:00 PM", 
+        "end": "11:00 PM"
+      }
+    }, 
+    {
+      "venue": "Pete's Candy Store", 
+      "artist": "Ana Becker", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 0, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 23, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "11:00 PM", 
+        "end": "12:00 AM"
+      }
+    }
+  ], 
+  "Pine Box Rock Shop": [
+    {
+      "venue": "Pine Box Rock Shop", 
+      "artist": "Echo Moth", 
+      "subtitle": [
+        "Unit J Records"
+      ], 
+      "time": {
+        "endHour": 1, 
+        "duration": 30, 
+        "endMinute": 0, 
+        "startHour": 0, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "12:30 AM", 
+        "end": "1:00 AM"
+      }
+    }, 
+    {
+      "venue": "Pine Box Rock Shop", 
+      "artist": "Dirty Bird", 
+      "subtitle": [
+        "Unit J Records"
+      ], 
+      "time": {
+        "endHour": 19, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 18, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "6:30 PM", 
+        "end": "7:30 PM"
+      }
+    }, 
+    {
+      "venue": "Pine Box Rock Shop", 
+      "artist": "Ghostly Times", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 20, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 19, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "7:30 PM", 
+        "end": "8:30 PM"
+      }
+    }, 
+    {
+      "venue": "Pine Box Rock Shop", 
+      "artist": "Gold Stars for Everyone", 
+      "subtitle": [
+        "Unit J Records"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 20, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "8:30 PM", 
+        "end": "9:30 PM"
+      }
+    }, 
+    {
+      "venue": "Pine Box Rock Shop", 
+      "artist": "Inalukt", 
+      "subtitle": [
+        "Unit J Records"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:30 PM", 
+        "end": "10:30 PM"
+      }
+    }, 
+    {
+      "venue": "Pine Box Rock Shop", 
+      "artist": "Dru Cutler & The Heart & Hand Band", 
+      "subtitle": [
+        "Unit J Records"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 22, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "10:30 PM", 
+        "end": "11:30 PM"
+      }
+    }, 
+    {
+      "venue": "Pine Box Rock Shop", 
+      "artist": "Tongues Unknown", 
+      "subtitle": [
+        "Unit J Records"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 23, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "11:30 PM", 
+        "end": "12:30 AM"
+      }
+    }
+  ], 
+  "Rough Trade": [
+    {
+      "venue": "Rough Trade", 
+      "artist": "Noveller", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "9:00 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "Rough Trade", 
+      "artist": "Mary Timony Plays Helium", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "10:00 PM", 
+        "end": "11:00 PM"
+      }
+    }, 
+    {
+      "venue": "Rough Trade", 
+      "artist": "Really Big Pinecone", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:00 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "Rough Trade", 
+      "artist": "Mega Bog", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "10:00 PM", 
+        "end": "11:00 PM"
+      }
+    }, 
+    {
+      "venue": "Rough Trade", 
+      "artist": "BIG THIEF", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 0, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 23, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "11:00 PM", 
+        "end": "12:00 AM"
+      }
+    }, 
+    {
+      "venue": "Rough Trade", 
+      "artist": "Tredici Bacci String Quartet: performing songs from Koji Kondo\u2019s Super Mario Bros. Soundtrack", 
+      "subtitle": [
+        "Bloomsbury\u2019s 33 1/3 Series"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:00 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "Rough Trade", 
+      "artist": "Tony Molina (performing songs from Dinosaur Jr.'s You're Living All Over Me)", 
+      "subtitle": [
+        "Bloomsbury\u2019s 33 1/3 Series"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "10:00 PM", 
+        "end": "11:00 PM"
+      }
+    }, 
+    {
+      "venue": "Rough Trade", 
+      "artist": "Lower Dens (performing songs from ABBA's Gold: Greatest Hits)", 
+      "subtitle": [
+        "Bloomsbury\u2019s 33 1/3 Series"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 23, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "11:00 PM", 
+        "end": "12:00 AM"
+      }
+    }
+  ], 
+  "Saint Vitus": [
+    {
+      "venue": "Saint Vitus", 
+      "artist": "Dark Blue", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 15, 
+        "startHour": 21, 
+        "day": 0, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "9:15 PM", 
+        "end": "10:15 PM"
+      }
+    }, 
+    {
+      "venue": "Saint Vitus", 
+      "artist": "The Explosion", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 15, 
+        "startHour": 22, 
+        "day": 0, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "10:15 PM", 
+        "end": "11:15 PM"
+      }
+    }, 
+    {
+      "venue": "Saint Vitus", 
+      "artist": "Field Agent", 
+      "subtitle": [
+        "Pitchfork"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 20, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "8:30 PM", 
+        "end": "9:30 PM"
+      }
+    }, 
+    {
+      "venue": "Saint Vitus", 
+      "artist": "Flesh World", 
+      "subtitle": [
+        "Pitchfork"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:30 PM", 
+        "end": "10:30 PM"
+      }
+    }, 
+    {
+      "venue": "Saint Vitus", 
+      "artist": "Kelsey Lu", 
+      "subtitle": [
+        "Pitchfork"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 22, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "10:30 PM", 
+        "end": "11:30 PM"
+      }
+    }, 
+    {
+      "venue": "Saint Vitus", 
+      "artist": "Downtown Boys", 
+      "subtitle": [
+        "Pitchfork"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 23, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "11:30 PM", 
+        "end": "12:30 AM"
+      }
+    }, 
+    {
+      "venue": "Saint Vitus", 
+      "artist": "Hiram-Maxim", 
+      "subtitle": [
+        "Aqualamb"
+      ], 
+      "time": {
+        "endHour": 14, 
+        "duration": 30, 
+        "endMinute": 0, 
+        "startHour": 13, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "1:30 PM", 
+        "end": "2:00 PM"
+      }
+    }, 
+    {
+      "venue": "Saint Vitus", 
+      "artist": "Descender", 
+      "subtitle": [
+        "Aqualamb"
+      ], 
+      "time": {
+        "endHour": 15, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 14, 
+        "day": 2, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "2:15 PM", 
+        "end": "3:00 PM"
+      }
+    }, 
+    {
+      "venue": "Saint Vitus", 
+      "artist": "The Space Merchants", 
+      "subtitle": [
+        "Aqualamb"
+      ], 
+      "time": {
+        "endHour": 15, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 15, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "3:00 PM", 
+        "end": "3:45 PM"
+      }
+    }, 
+    {
+      "venue": "Saint Vitus", 
+      "artist": "Black Black Black", 
+      "subtitle": [
+        "Aqualamb"
+      ], 
+      "time": {
+        "endHour": 16, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 15, 
+        "day": 2, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "3:45 PM", 
+        "end": "4:30 PM"
+      }
+    }, 
+    {
+      "venue": "Saint Vitus", 
+      "artist": "Godmaker", 
+      "subtitle": [
+        "Aqualamb"
+      ], 
+      "time": {
+        "endHour": 17, 
+        "duration": 30, 
+        "endMinute": 0, 
+        "startHour": 16, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "4:30 PM", 
+        "end": "5:00 PM"
+      }
+    }, 
+    {
+      "venue": "Saint Vitus", 
+      "artist": "Lo-Pan", 
+      "subtitle": [
+        "Aqualamb"
+      ], 
+      "time": {
+        "endHour": 17, 
+        "duration": 30, 
+        "endMinute": 30, 
+        "startHour": 17, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "5:00 PM", 
+        "end": "5:30 PM"
+      }
+    }, 
+    {
+      "venue": "Saint Vitus", 
+      "artist": "Suicide Pact", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 21, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 20, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "8:00 PM", 
+        "end": "9:00 PM"
+      }
+    }, 
+    {
+      "venue": "Saint Vitus", 
+      "artist": "Manalive", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:00 PM", 
+        "end": "9:45 PM"
+      }
+    }, 
+    {
+      "venue": "Saint Vitus", 
+      "artist": "Samiam", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:45 PM", 
+        "end": "10:30 PM"
+      }
+    }, 
+    {
+      "venue": "Saint Vitus", 
+      "artist": "Nathaniel Shannon & the Vanishing Twin", 
+      "subtitle": [
+        "Aqualamb"
+      ], 
+      "time": {
+        "endHour": 24, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 24, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "12:00 PM", 
+        "end": "12:45 PM"
+      }
+    }, 
+    {
+      "venue": "Saint Vitus", 
+      "artist": "Skryptor", 
+      "subtitle": [
+        "Aqualamb"
+      ], 
+      "time": {
+        "endHour": 13, 
+        "duration": 765, 
+        "endMinute": 30, 
+        "startHour": 24, 
+        "day": 2, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "12:45 PM", 
+        "end": "1:30 PM"
+      }
+    }
+  ], 
+  "Sine Metu Stage @ Bedford Ave": [
+    {
+      "venue": "Sine Metu Stage @ Bedford Ave", 
+      "artist": "Combo Chimbita", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 15, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 14, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "2:00 PM", 
+        "end": "3:00 PM"
+      }
+    }, 
+    {
+      "venue": "Sine Metu Stage @ Bedford Ave", 
+      "artist": "Julia Haltigan", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 16, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 15, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "3:00 PM", 
+        "end": "4:00 PM"
+      }
+    }, 
+    {
+      "venue": "Sine Metu Stage @ Bedford Ave", 
+      "artist": "HONEYHONEY", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 17, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 16, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "4:00 PM", 
+        "end": "5:00 PM"
+      }
+    }, 
+    {
+      "venue": "Sine Metu Stage @ Bedford Ave", 
+      "artist": "J-Council", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 18, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 17, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "5:00 PM", 
+        "end": "6:00 PM"
+      }
+    }, 
+    {
+      "venue": "Sine Metu Stage @ Bedford Ave", 
+      "artist": "Wild Pink", 
+      "subtitle": [
+        "Tiny Engines"
+      ], 
+      "time": {
+        "endHour": 15, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 14, 
+        "day": 3, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Sunday, 11 June 2017", 
+        "start": "2:00 PM", 
+        "end": "3:00 PM"
+      }
+    }
+  ], 
+  "Sunnyvale": [
+    {
+      "venue": "Sunnyvale", 
+      "artist": "Ciarra Black", 
+      "subtitle": [
+        "AdHoc", 
+        "Impose", 
+        "No-Tech"
+      ], 
+      "time": {
+        "endHour": 1, 
+        "duration": 90, 
+        "endMinute": 30, 
+        "startHour": 0, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "12:00 AM", 
+        "end": "1:30 AM"
+      }
+    }, 
+    {
+      "venue": "Sunnyvale", 
+      "artist": "Horoscope", 
+      "subtitle": [
+        "AdHoc", 
+        "Impose", 
+        "No-Tech"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 20, 
+        "endMinute": 50, 
+        "startHour": 0, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "12:30 AM", 
+        "end": "12:50 AM"
+      }
+    }, 
+    {
+      "venue": "Sunnyvale", 
+      "artist": "Pelada", 
+      "subtitle": [
+        "AdHoc", 
+        "Impose", 
+        "No-Tech"
+      ], 
+      "time": {
+        "endHour": 2, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 1, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "1:30 AM", 
+        "end": "2:15 AM"
+      }
+    }, 
+    {
+      "venue": "Sunnyvale", 
+      "artist": "CL", 
+      "subtitle": [
+        "AdHoc", 
+        "Impose", 
+        "No-Tech"
+      ], 
+      "time": {
+        "endHour": 3, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 2, 
+        "day": 0, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "2:15 AM", 
+        "end": "3:00 AM"
+      }
+    }, 
+    {
+      "venue": "Sunnyvale", 
+      "artist": "Renata Zeiguer", 
+      "subtitle": [
+        "Northern Spy Records"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 20, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "8:00 PM", 
+        "end": "9:00 PM"
+      }
+    }, 
+    {
+      "venue": "Sunnyvale", 
+      "artist": "Larkin Grimm", 
+      "subtitle": [
+        "Northern Spy Records"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "9:00 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "Sunnyvale", 
+      "artist": "Cuddle Magic", 
+      "subtitle": [
+        "Northern Spy Records"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "10:00 PM", 
+        "end": "11:00 PM"
+      }
+    }, 
+    {
+      "venue": "Sunnyvale", 
+      "artist": "Shilpa Ray", 
+      "subtitle": [
+        "Northern Spy Records"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 23, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "11:00 PM", 
+        "end": "12:00 AM"
+      }
+    }, 
+    {
+      "venue": "Sunnyvale", 
+      "artist": "Stove", 
+      "subtitle": [
+        "Exploding in Sound Records", 
+        "Golden Parachute"
+      ], 
+      "time": {
+        "endHour": 15, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 15, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "3:00 PM", 
+        "end": "3:45 PM"
+      }
+    }, 
+    {
+      "venue": "Sunnyvale", 
+      "artist": "Tall Friend", 
+      "subtitle": [
+        "Exploding in Sound Records", 
+        "Golden Parachute"
+      ], 
+      "time": {
+        "endHour": 16, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 15, 
+        "day": 2, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "3:45 PM", 
+        "end": "4:30 PM"
+      }
+    }, 
+    {
+      "venue": "Sunnyvale", 
+      "artist": "Thelma", 
+      "subtitle": [
+        "Exploding in Sound Records", 
+        "Golden Parachute", 
+        "Tiny Engines"
+      ], 
+      "time": {
+        "endHour": 17, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 16, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "4:30 PM", 
+        "end": "5:15 PM"
+      }
+    }, 
+    {
+      "venue": "Sunnyvale", 
+      "artist": "Peaer", 
+      "subtitle": [
+        "PopGun", 
+        "Exploding in Sound Records", 
+        "Golden Parachute", 
+        "Tiny Engines"
+      ], 
+      "time": {
+        "endHour": 18, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 17, 
+        "day": 2, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "5:15 PM", 
+        "end": "6:00 PM"
+      }
+    }, 
+    {
+      "venue": "Sunnyvale", 
+      "artist": "Fond Han", 
+      "subtitle": [
+        "Exploding in Sound Records", 
+        "Golden Parachute"
+      ], 
+      "time": {
+        "endHour": 18, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 18, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "6:00 PM", 
+        "end": "6:45 PM"
+      }
+    }, 
+    {
+      "venue": "Sunnyvale", 
+      "artist": "Kal Marks", 
+      "subtitle": [
+        "Exploding in Sound Records", 
+        "Golden Parachute"
+      ], 
+      "time": {
+        "endHour": 19, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 18, 
+        "day": 2, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "6:45 PM", 
+        "end": "7:30 PM"
+      }
+    }, 
+    {
+      "venue": "Sunnyvale", 
+      "artist": "gobbinjr", 
+      "subtitle": [
+        "Exploding in Sound Records", 
+        "Golden Parachute"
+      ], 
+      "time": {
+        "endHour": 20, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 19, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "7:30 PM", 
+        "end": "8:15 PM"
+      }
+    }, 
+    {
+      "venue": "Sunnyvale", 
+      "artist": "Baked", 
+      "subtitle": [
+        "Exploding in Sound Records", 
+        "Golden Parachute"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 20, 
+        "day": 2, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "8:15 PM", 
+        "end": "9:00 PM"
+      }
+    }, 
+    {
+      "venue": "Sunnyvale", 
+      "artist": "Washer", 
+      "subtitle": [
+        "Exploding in Sound Records", 
+        "Golden Parachute"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:00 PM", 
+        "end": "9:45 PM"
+      }
+    }, 
+    {
+      "venue": "Sunnyvale", 
+      "artist": "Two Inch Astronaut", 
+      "subtitle": [
+        "Exploding in Sound Records", 
+        "Golden Parachute"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:45 PM", 
+        "end": "10:30 PM"
+      }
+    }, 
+    {
+      "venue": "Sunnyvale", 
+      "artist": "Big Ups", 
+      "subtitle": [
+        "Exploding in Sound Records", 
+        "Golden Parachute"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 22, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "10:30 PM", 
+        "end": "11:15 PM"
+      }
+    }
+  ], 
+  "TNT Backstory Studio at Kinfolk 90 (JUNE 8-11)": [
+    {
+      "venue": "TNT Backstory Studio at Kinfolk 90 (JUNE 8-11)", 
+      "artist": "Sneaks", 
+      "subtitle": [
+        "Brooklyn Magazine's Emerging Artists Series"
+      ], 
+      "time": {
+        "endHour": 17, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 16, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "4:30 PM", 
+        "end": "5:30 PM"
+      }
+    }, 
+    {
+      "venue": "TNT Backstory Studio at Kinfolk 90 (JUNE 8-11)", 
+      "artist": "Yaeji", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 17, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 16, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "4:30 PM", 
+        "end": "5:30 PM"
+      }
+    }, 
+    {
+      "venue": "TNT Backstory Studio at Kinfolk 90 (JUNE 8-11)", 
+      "artist": "OSHUN", 
+      "subtitle": [
+        "Brooklyn Magazine's Emerging Artists Series"
+      ], 
+      "time": {
+        "endHour": 17, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 16, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "4:30 PM", 
+        "end": "5:30 PM"
+      }
+    }, 
+    {
+      "venue": "TNT Backstory Studio at Kinfolk 90 (JUNE 8-11)", 
+      "artist": "It Was Romance", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 17, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 16, 
+        "day": 3, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Sunday, 11 June 2017", 
+        "start": "4:30 PM", 
+        "end": "5:30 PM"
+      }
+    }
+  ], 
+  "Tender Trap": [
+    {
+      "venue": "Tender Trap", 
+      "artist": "Plastic Faction", 
+      "subtitle": [
+        "Play Too Much"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 20, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "8:00 PM", 
+        "end": "9:00 PM"
+      }
+    }, 
+    {
+      "venue": "Tender Trap", 
+      "artist": "American Pinup", 
+      "subtitle": [
+        "Play Too Much"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "9:00 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "Tender Trap", 
+      "artist": "Effie Liu", 
+      "subtitle": [
+        "Play Too Much"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "10:00 PM", 
+        "end": "11:00 PM"
+      }
+    }, 
+    {
+      "venue": "Tender Trap", 
+      "artist": "Haybaby", 
+      "subtitle": [
+        "Play Too Much"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 23, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "11:00 PM", 
+        "end": "12:00 AM"
+      }
+    }, 
+    {
+      "venue": "Tender Trap", 
+      "artist": "The Falling Birds", 
+      "subtitle": [
+        "Rocker Stalker", 
+        "Behind The Curtains"
+      ], 
+      "time": {
+        "endHour": 20, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 19, 
+        "day": 1, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "7:15 PM", 
+        "end": "8:00 PM"
+      }
+    }, 
+    {
+      "venue": "Tender Trap", 
+      "artist": "Castle Black", 
+      "subtitle": [
+        "TJO"
+      ], 
+      "time": {
+        "endHour": 20, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 20, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "8:00 PM", 
+        "end": "8:45 PM"
+      }
+    }, 
+    {
+      "venue": "Tender Trap", 
+      "artist": "The BandDroidz", 
+      "subtitle": [
+        "TJO"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 20, 
+        "day": 1, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "8:45 PM", 
+        "end": "9:30 PM"
+      }
+    }, 
+    {
+      "venue": "Tender Trap", 
+      "artist": "Slow Suck", 
+      "subtitle": [
+        "TJO"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:30 PM", 
+        "end": "10:15 PM"
+      }
+    }, 
+    {
+      "venue": "Tender Trap", 
+      "artist": "FingerFingerrr", 
+      "subtitle": [
+        "Campers' Rule", 
+        "Carabella"
+      ], 
+      "time": {
+        "endHour": 20, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 19, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "7:30 PM", 
+        "end": "8:15 PM"
+      }
+    }, 
+    {
+      "venue": "Tender Trap", 
+      "artist": "Debbie Downer", 
+      "subtitle": [
+        "Supercrush Studio", 
+        "Paper Garden Records", 
+        "Greenpointers.com"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 20, 
+        "day": 2, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "8:15 PM", 
+        "end": "9:00 PM"
+      }
+    }, 
+    {
+      "venue": "Tender Trap", 
+      "artist": "Caged Animals", 
+      "subtitle": [
+        "Campers' Rule", 
+        "Carabella"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:00 PM", 
+        "end": "9:45 PM"
+      }
+    }, 
+    {
+      "venue": "Tender Trap", 
+      "artist": "Spirit Plate", 
+      "subtitle": [
+        "Campers' Rule", 
+        "Carabella"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:45 PM", 
+        "end": "10:30 PM"
+      }
+    }, 
+    {
+      "venue": "Tender Trap", 
+      "artist": "Grim Streaker", 
+      "subtitle": [
+        "Supercrush Studio", 
+        "Paper Garden Records", 
+        "Greenpointers.com", 
+        "Reheated Spaghetti", 
+        "PopGun", 
+        "Campers' Rule", 
+        "Carabella"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 22, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "10:30 PM", 
+        "end": "11:15 PM"
+      }
+    }
+  ], 
+  "Terra Firma": [
+    {
+      "venue": "Terra Firma", 
+      "artist": "Amanda Fama", 
+      "subtitle": [
+        "TJO"
+      ], 
+      "time": {
+        "endHour": 20, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 19, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "7:30 PM", 
+        "end": "8:15 PM"
+      }
+    }, 
+    {
+      "venue": "Terra Firma", 
+      "artist": "Janani Shankar", 
+      "subtitle": [
+        "TJO"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 20, 
+        "day": 0, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "8:15 PM", 
+        "end": "9:00 PM"
+      }
+    }, 
+    {
+      "venue": "Terra Firma", 
+      "artist": "The Icebergs", 
+      "subtitle": [
+        "TJO"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 21, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "9:00 PM", 
+        "end": "9:45 PM"
+      }
+    }, 
+    {
+      "venue": "Terra Firma", 
+      "artist": "The Tall Pines", 
+      "subtitle": [
+        "TJO"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 21, 
+        "day": 0, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "9:45 PM", 
+        "end": "10:30 PM"
+      }
+    }, 
+    {
+      "venue": "Terra Firma", 
+      "artist": "Jackie Paladino", 
+      "subtitle": [
+        "TJO"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 22, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "10:30 PM", 
+        "end": "11:15 PM"
+      }
+    }, 
+    {
+      "venue": "Terra Firma", 
+      "artist": "PC Worship (solo)", 
+      "subtitle": [
+        "Dull Tools", 
+        "Ears to Feed", 
+        "Impose"
+      ], 
+      "time": {
+        "endHour": 19, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 18, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "6:30 PM", 
+        "end": "7:15 PM"
+      }
+    }, 
+    {
+      "venue": "Terra Firma", 
+      "artist": "Russian Baths", 
+      "subtitle": [
+        "Ears To Feed", 
+        "Impose"
+      ], 
+      "time": {
+        "endHour": 20, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 19, 
+        "day": 1, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "7:15 PM", 
+        "end": "8:00 PM"
+      }
+    }, 
+    {
+      "venue": "Terra Firma", 
+      "artist": "Monograms", 
+      "subtitle": [
+        "Ears To Feed", 
+        "Impose"
+      ], 
+      "time": {
+        "endHour": 20, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 20, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "8:00 PM", 
+        "end": "8:45 PM"
+      }
+    }, 
+    {
+      "venue": "Terra Firma", 
+      "artist": "Big Bliss", 
+      "subtitle": [
+        "Ears To Feed", 
+        "Impose"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 20, 
+        "day": 1, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "8:45 PM", 
+        "end": "9:30 PM"
+      }
+    }, 
+    {
+      "venue": "Terra Firma", 
+      "artist": "Grooms", 
+      "subtitle": [
+        "Ears To Feed", 
+        "Impose"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:30 PM", 
+        "end": "10:15 PM"
+      }
+    }, 
+    {
+      "venue": "Terra Firma", 
+      "artist": "Wildhoney", 
+      "subtitle": [
+        "Iron Pier Records", 
+        "Ears to Feed", 
+        "Impose"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 1, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "10:15 PM", 
+        "end": "11:00 PM"
+      }
+    }, 
+    {
+      "venue": "Terra Firma", 
+      "artist": "Pop. 1280", 
+      "subtitle": [
+        "Sacred Bones 10th Anniversary", 
+        "Ears To Feed", 
+        "Impose"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 23, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "11:00 PM", 
+        "end": "11:45 PM"
+      }
+    }, 
+    {
+      "venue": "Terra Firma", 
+      "artist": "YVETTE", 
+      "subtitle": [
+        "Ears To Feed", 
+        "Impose"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 23, 
+        "day": 1, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "11:45 PM", 
+        "end": "12:30 AM"
+      }
+    }, 
+    {
+      "venue": "Terra Firma", 
+      "artist": "Wolkoff", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 21, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 20, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "8:00 PM", 
+        "end": "9:00 PM"
+      }
+    }, 
+    {
+      "venue": "Terra Firma", 
+      "artist": "Tapedream", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:00 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "Terra Firma", 
+      "artist": "HoneyChrome", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "10:00 PM", 
+        "end": "11:00 PM"
+      }
+    }
+  ], 
+  "The Gutter": [
+    {
+      "venue": "The Gutter", 
+      "artist": "Cop Funeral", 
+      "subtitle": [
+        "Gimme Tinnitus", 
+        "Already Dead Tapes", 
+        "Vital Joint"
+      ], 
+      "time": {
+        "endHour": 20, 
+        "duration": 30, 
+        "endMinute": 30, 
+        "startHour": 20, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "8:00 PM", 
+        "end": "8:30 PM"
+      }
+    }, 
+    {
+      "venue": "The Gutter", 
+      "artist": "Fat Heaven", 
+      "subtitle": [
+        "Gimme Tinnitus", 
+        "Already Dead Tapes"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 20, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "8:30 PM", 
+        "end": "9:15 PM"
+      }
+    }, 
+    {
+      "venue": "The Gutter", 
+      "artist": "Canter", 
+      "subtitle": [
+        "Gimme Tinnitus", 
+        "Already Dead Tapes"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 0, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "9:15 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "The Gutter", 
+      "artist": "Video Daughters", 
+      "subtitle": [
+        "Gimme Tinnitus", 
+        "Already Dead Tapes"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 22, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "10:00 PM", 
+        "end": "10:45 PM"
+      }
+    }, 
+    {
+      "venue": "The Gutter", 
+      "artist": "Anybody But The Cops", 
+      "subtitle": [
+        "Gimme Tinnitus", 
+        "Already Dead Tapes"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 22, 
+        "day": 0, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "10:45 PM", 
+        "end": "11:30 PM"
+      }
+    }, 
+    {
+      "venue": "The Gutter", 
+      "artist": "The Flag", 
+      "subtitle": [
+        "Gimme Tinnitus", 
+        "Already Dead Tapes"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 23, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "11:30 PM", 
+        "end": "12:30 AM"
+      }
+    }, 
+    {
+      "venue": "The Gutter", 
+      "artist": "Plaid Dracula", 
+      "subtitle": [
+        "King Pizza"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 20, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "8:30 PM", 
+        "end": "9:15 PM"
+      }
+    }, 
+    {
+      "venue": "The Gutter", 
+      "artist": "Glass Slipper", 
+      "subtitle": [
+        "King Pizza"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:15 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "The Gutter", 
+      "artist": "Secret Nudist Friends", 
+      "subtitle": [
+        "El Goodo", 
+        "Paper Scissors", 
+        "King Pizza"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 22, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "10:00 PM", 
+        "end": "10:45 PM"
+      }
+    }, 
+    {
+      "venue": "The Gutter", 
+      "artist": "The Rizzos", 
+      "subtitle": [
+        "King Pizza"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 22, 
+        "day": 1, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "10:45 PM", 
+        "end": "11:30 PM"
+      }
+    }, 
+    {
+      "venue": "The Gutter", 
+      "artist": "Sun Voyager", 
+      "subtitle": [
+        "King Pizza"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 23, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "11:30 PM", 
+        "end": "12:15 AM"
+      }
+    }, 
+    {
+      "venue": "The Gutter", 
+      "artist": "Toyzanne", 
+      "subtitle": [
+        "El Goodo"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 30, 
+        "endMinute": 30, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:00 PM", 
+        "end": "9:30 PM"
+      }
+    }, 
+    {
+      "venue": "The Gutter", 
+      "artist": "Del Caesar", 
+      "subtitle": [
+        "El Goodo"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 30, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:30 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "The Gutter", 
+      "artist": "Secret Nudist Friends", 
+      "subtitle": [
+        "El Goodo", 
+        "Paper Scissors", 
+        "King Pizza"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 30, 
+        "endMinute": 30, 
+        "startHour": 22, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "10:00 PM", 
+        "end": "10:30 PM"
+      }
+    }, 
+    {
+      "venue": "The Gutter", 
+      "artist": "Holly Overton and Midnight People", 
+      "subtitle": [
+        "El Goodo"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 30, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "10:30 PM", 
+        "end": "11:00 PM"
+      }
+    }, 
+    {
+      "venue": "The Gutter", 
+      "artist": "No Ice", 
+      "subtitle": [
+        "El Goodo"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 30, 
+        "endMinute": 30, 
+        "startHour": 23, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "11:00 PM", 
+        "end": "11:30 PM"
+      }
+    }, 
+    {
+      "venue": "The Gutter", 
+      "artist": "Crazy Pills", 
+      "subtitle": [
+        "El Goodo"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 23, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "11:30 PM", 
+        "end": "12:15 AM"
+      }
+    }
+  ], 
+  "The Hall at MP": [
+    {
+      "venue": "The Hall at MP", 
+      "artist": "Lydia Lunch (an evening of performances)", 
+      "subtitle": [
+        "Northside Festival", 
+        "LPR Present: Downtown Trip"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 240, 
+        "endMinute": 0, 
+        "startHour": 20, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "8:00 PM", 
+        "end": "12:00 AM"
+      }
+    }, 
+    {
+      "venue": "The Hall at MP", 
+      "artist": "Bush Tetras", 
+      "subtitle": [
+        "Northside Festival", 
+        "LPR Present: Downtown Trip"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 105, 
+        "endMinute": 15, 
+        "startHour": 20, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "8:30 PM", 
+        "end": "10:15 PM"
+      }
+    }, 
+    {
+      "venue": "The Hall at MP", 
+      "artist": "Ikue Mori", 
+      "subtitle": [
+        "Northside Festival", 
+        "LPR Present: Downtown Trip"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 1, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "10:15 PM", 
+        "end": "11:00 PM"
+      }
+    }, 
+    {
+      "venue": "The Hall at MP", 
+      "artist": "Craig Leon & Martin Rev", 
+      "subtitle": [
+        "Northside Festival", 
+        "LPR Present: Downtown Trip"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 23, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "11:00 PM", 
+        "end": "12:00 AM"
+      }
+    }
+  ], 
+  "The Safari Room at El Cortez": [
+    {
+      "venue": "The Safari Room at El Cortez", 
+      "artist": "Autodrone", 
+      "subtitle": [
+        "Scenic"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 20, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "8:00 PM", 
+        "end": "9:00 PM"
+      }
+    }, 
+    {
+      "venue": "The Safari Room at El Cortez", 
+      "artist": "Scam Avenue", 
+      "subtitle": [
+        "Scenic"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:00 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "The Safari Room at El Cortez", 
+      "artist": "Syvia", 
+      "subtitle": [
+        "Scenic"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "10:00 PM", 
+        "end": "11:00 PM"
+      }
+    }
+  ], 
+  "The Well": [
+    {
+      "venue": "The Well", 
+      "artist": "The New Resistants", 
+      "subtitle": [
+        "Lonely Atom Records", 
+        "TJO"
+      ], 
+      "time": {
+        "endHour": 20, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 19, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "7:30 PM", 
+        "end": "8:15 PM"
+      }
+    }, 
+    {
+      "venue": "The Well", 
+      "artist": "Witch Slap", 
+      "subtitle": [
+        "Lonely Atom Records", 
+        "TJO"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 20, 
+        "day": 0, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "8:15 PM", 
+        "end": "9:00 PM"
+      }
+    }, 
+    {
+      "venue": "The Well", 
+      "artist": "Love Is A Fist", 
+      "subtitle": [
+        "Lonely Atom Records", 
+        "TJO"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 21, 
+        "day": 0, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "9:45 PM", 
+        "end": "10:30 PM"
+      }
+    }, 
+    {
+      "venue": "The Well", 
+      "artist": "The Pandemics", 
+      "subtitle": [
+        "Lonely Atom Records", 
+        "TJO"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 22, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "10:30 PM", 
+        "end": "11:15 PM"
+      }
+    }, 
+    {
+      "venue": "The Well", 
+      "artist": "Color Tongue", 
+      "subtitle": [
+        "Lonely Atom Records", 
+        "TJO"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 23, 
+        "day": 0, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "11:15 PM", 
+        "end": "12:00 AM"
+      }
+    }, 
+    {
+      "venue": "The Well", 
+      "artist": "Adam Schatz", 
+      "subtitle": [
+        "Wild Honey Pie present The Beehive"
+      ], 
+      "time": {
+        "endHour": 19, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 18, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "6:30 PM", 
+        "end": "7:30 PM"
+      }
+    }, 
+    {
+      "venue": "The Well", 
+      "artist": "Blaire Alise & The Bombshells", 
+      "subtitle": [
+        "Wild Honey Pie present The Beehive"
+      ], 
+      "time": {
+        "endHour": 20, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 19, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "7:00 PM", 
+        "end": "8:00 PM"
+      }
+    }, 
+    {
+      "venue": "The Well", 
+      "artist": "Wilsen", 
+      "subtitle": [
+        "Wild Honey Pie present The Beehive"
+      ], 
+      "time": {
+        "endHour": 20, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 19, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "7:30 PM", 
+        "end": "8:30 PM"
+      }
+    }, 
+    {
+      "venue": "The Well", 
+      "artist": "Pavo Pavo", 
+      "subtitle": [
+        "Wild Honey Pie present The Beehive"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 20, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "8:00 PM", 
+        "end": "9:00 PM"
+      }
+    }, 
+    {
+      "venue": "The Well", 
+      "artist": "Salt Cathedral", 
+      "subtitle": [
+        "Cigar City MGMT", 
+        "Wild Honey Pie presents The Beehive"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 75, 
+        "endMinute": 45, 
+        "startHour": 20, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "8:30 PM", 
+        "end": "9:45 PM"
+      }
+    }, 
+    {
+      "venue": "The Well", 
+      "artist": "The Dig", 
+      "subtitle": [
+        "Wild Honey Pie present The Beehive"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:00 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "The Well", 
+      "artist": "Frances Cone", 
+      "subtitle": [
+        "Wild Honey Pie present The Beehive"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 45, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:45 PM", 
+        "end": "10:45 PM"
+      }
+    }, 
+    {
+      "venue": "The Well", 
+      "artist": "Uni Ika Ai", 
+      "subtitle": [
+        "Wild Honey Pie present The Beehive"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 45, 
+        "startHour": 22, 
+        "day": 1, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "10:45 PM", 
+        "end": "11:45 PM"
+      }
+    }, 
+    {
+      "venue": "The Well", 
+      "artist": "Monogold", 
+      "subtitle": [
+        "Wild Honey Pie present The Beehive"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 23, 
+        "day": 1, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "11:45 PM", 
+        "end": "12:30 AM"
+      }
+    }
+  ], 
+  "Union Pool": [
+    {
+      "venue": "Union Pool", 
+      "artist": "Ginla", 
+      "subtitle": [
+        "AdHoc"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 21, 
+        "day": 0, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "9:00 PM", 
+        "end": "9:45 PM"
+      }
+    }, 
+    {
+      "venue": "Union Pool", 
+      "artist": "Dougie Poole", 
+      "subtitle": [
+        "AdHoc"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 21, 
+        "day": 0, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "9:45 PM", 
+        "end": "10:30 PM"
+      }
+    }, 
+    {
+      "venue": "Union Pool", 
+      "artist": "She-Devils", 
+      "subtitle": [
+        "AdHoc"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 30, 
+        "startHour": 22, 
+        "day": 0, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Thursday, 8 June 2017", 
+        "start": "10:30 PM", 
+        "end": "11:30 PM"
+      }
+    }, 
+    {
+      "venue": "Union Pool", 
+      "artist": "Oracles", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 22, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:00 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "Union Pool", 
+      "artist": "Kate NV", 
+      "subtitle": [
+        "Orange Milk Records"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "10:00 PM", 
+        "end": "11:00 PM"
+      }
+    }, 
+    {
+      "venue": "Union Pool", 
+      "artist": "Ricky Eat Acid", 
+      "subtitle": [], 
+      "time": {
+        "endHour": 0, 
+        "duration": 60, 
+        "endMinute": 0, 
+        "startHour": 23, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "11:00 PM", 
+        "end": "12:00 AM"
+      }
+    }, 
+    {
+      "venue": "Union Pool", 
+      "artist": "Old Maybe", 
+      "subtitle": [
+        "Wharf Cat Records", 
+        "Ramp Local"
+      ], 
+      "time": {
+        "endHour": 20, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 20, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "8:00 PM", 
+        "end": "8:45 PM"
+      }
+    }, 
+    {
+      "venue": "Union Pool", 
+      "artist": "Macula Dog", 
+      "subtitle": [
+        "Wharf Cat Records", 
+        "Ramp Local"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 20, 
+        "day": 2, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "8:45 PM", 
+        "end": "9:30 PM"
+      }
+    }, 
+    {
+      "venue": "Union Pool", 
+      "artist": "Pat Keen", 
+      "subtitle": [
+        "Wharf Cat Records", 
+        "Ramp Local"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:30 PM", 
+        "end": "10:15 PM"
+      }
+    }, 
+    {
+      "venue": "Union Pool", 
+      "artist": "Snakehole", 
+      "subtitle": [
+        "Wharf Cat Records", 
+        "Ramp Local"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 22, 
+        "day": 2, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "10:15 PM", 
+        "end": "11:00 PM"
+      }
+    }, 
+    {
+      "venue": "Union Pool", 
+      "artist": "Buck Gooter", 
+      "subtitle": [
+        "Wharf Cat Records", 
+        "Ramp Local"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 23, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "11:00 PM", 
+        "end": "11:45 PM"
+      }
+    }, 
+    {
+      "venue": "Union Pool", 
+      "artist": "The Sediment Club", 
+      "subtitle": [
+        "Wharf Cat Records", 
+        "Ramp Local"
+      ], 
+      "time": {
+        "endHour": 0, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 23, 
+        "day": 2, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "11:45 PM", 
+        "end": "12:30 AM"
+      }
+    }
+  ], 
+  "Vital Joint": [
+    {
+      "venue": "Vital Joint", 
+      "artist": "Cop Funeral", 
+      "subtitle": [
+        "Gimme Tinnitus", 
+        "Already Dead Tapes", 
+        "Vital Joint"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 20, 
+        "day": 2, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "8:30 PM", 
+        "end": "9:15 PM"
+      }
+    }, 
+    {
+      "venue": "Vital Joint", 
+      "artist": "Hnry Flwr", 
+      "subtitle": [
+        "Vital Joint"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 0, 
+        "startHour": 21, 
+        "day": 2, 
+        "startMinute": 15
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "9:15 PM", 
+        "end": "10:00 PM"
+      }
+    }, 
+    {
+      "venue": "Vital Joint", 
+      "artist": "nightspace", 
+      "subtitle": [
+        "Vital Joint"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 22, 
+        "day": 2, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "10:00 PM", 
+        "end": "10:45 PM"
+      }
+    }, 
+    {
+      "venue": "Vital Joint", 
+      "artist": "Ziemba", 
+      "subtitle": [
+        "Vital Joint"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 22, 
+        "day": 2, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Saturday, 10 June 2017", 
+        "start": "10:45 PM", 
+        "end": "11:30 PM"
+      }
+    }
+  ], 
+  "Warsaw": [
+    {
+      "venue": "Warsaw", 
+      "artist": "Lexie", 
+      "subtitle": [
+        "AdHoc"
+      ], 
+      "time": {
+        "endHour": 21, 
+        "duration": 45, 
+        "endMinute": 45, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 0
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:00 PM", 
+        "end": "9:45 PM"
+      }
+    }, 
+    {
+      "venue": "Warsaw", 
+      "artist": "Ian Sweet", 
+      "subtitle": [
+        "AdHoc"
+      ], 
+      "time": {
+        "endHour": 22, 
+        "duration": 45, 
+        "endMinute": 30, 
+        "startHour": 21, 
+        "day": 1, 
+        "startMinute": 45
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "9:45 PM", 
+        "end": "10:30 PM"
+      }
+    }, 
+    {
+      "venue": "Warsaw", 
+      "artist": "Girlpool", 
+      "subtitle": [
+        "AdHoc"
+      ], 
+      "time": {
+        "endHour": 23, 
+        "duration": 45, 
+        "endMinute": 15, 
+        "startHour": 22, 
+        "day": 1, 
+        "startMinute": 30
+      }, 
+      "schedule": {
+        "date": "Friday, 9 June 2017", 
+        "start": "10:30 PM", 
+        "end": "11:15 PM"
+      }
+    }
+  ]
+}

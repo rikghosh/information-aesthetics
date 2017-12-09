@@ -1,0 +1,57 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="libraries/leaflet/leaflet.css" /> <!-- default styles -->
+  <link rel="stylesheet" href="assets/styles.css" /> <!-- use this for layout customizations -->
+  <style> body {padding: 0; margin: 0;} 
+          
+      #quake-map {width: 100%; };
+      
+      #title {
+          background: #ECE3D3;
+          font-family: "Courier New";
+      }
+      
+      html {
+          background: #ECE3D3;
+          font-family: "Courier";
+      }
+      
+      html h1 {
+          font-size: 30px;
+          font-weight: 400;
+          padding-left: 120px;
+          padding-top: 20px;
+          padding-bottom: 10px;
+      }
+      
+      html p {
+          padding-left: 120px;
+          padding-bottom: 20px;
+          padding-top: 10px;
+      }
+      
+  </style>
+
+</head>
+<body>
+  <!-- The container div for our leaflet map -->
+  <div id="title">
+      <h1>⚐ RECENT EARTHQUAKES EXPLORER</h1>
+      <p>Select a recent earthquake on the map below, and scroll down to see information about its depth and magnitude.</p>
+  </div>
+  <div id="quake-map"></div>
+  <div><p>Here is information comparing the depth and magnitude of your selected earthquake:</p></div>
+  <div id="canvas-holder"></div>
+  
+
+  <!-- load our dependencies and sketch file -->
+  <script src="libraries/leaflet/leaflet.js"></script>
+  <script src="libraries/p5.js"></script>
+  <script language="javascript" src="libraries/p5.dom.js"></script>
+  <script src="libraries/lodash.js"></script>
+  <script src="sketch.js"></script>
+
+  <!-- p5.js will create a canvas element here at runtime -->
+</body>
+</html>

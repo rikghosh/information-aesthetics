@@ -97,7 +97,7 @@ function setup() {
         textSize(40);
         text("A Visual Decomposition with Musical Keys mapped onto the Color Wheel", 50, 160);
     
-        text("Click anywhere to toggle play and pause", 50, 6*height/8)
+        text("Click anywhere to toggle play and pause", windowWidth/4, 6*height/8)
  
     
 
@@ -105,11 +105,11 @@ function setup() {
 
 function draw() {
 
-  if (frameCount % 15 == 0 || frameCount == 1) {
+  if (frameCount % 12 == 0 || frameCount == 1) {
     console.log(frameCount);
     var midiValue = scaleArray[note];
     var freqValue = midiToFreq(midiValue);
-    var i = Math.floor(frameCount/15);
+    var i = Math.floor(frameCount/12);
     wave.freq(freqValue);
 
     envelope.play(wave, 0, 0.1);
@@ -147,7 +147,7 @@ function draw() {
 }
 
 function mousePressed() {
-  if (playmode == true) {
+  if (playmode == true && mouseY < height - 40) {
       noLoop();
       playmode = false; 
   }

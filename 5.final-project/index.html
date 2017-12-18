@@ -5,8 +5,8 @@
     <style>
         body {
             font-family: 'Cormorant Garamond';
-            /*background-image: url('background.png');
-            background-size: 1200px;*/
+            background-image: url('background.png');
+            background-size: 1200px;
 
         }
         
@@ -23,6 +23,8 @@
             margin: 0 auto;
             max-width: 900px;
             background: #FFF;
+            padding-left: 32px;
+            padding-right: 32px;
 
         }
         
@@ -45,21 +47,23 @@
         Visual patterns, in contrast, are much easier to identify without formal study. We are trained from a young age to recognize patterns of hue and saturation because such skills are necessary in our society. 
         </p>
         <p>
-        This visualization considers the Prelude from J.S. Bach's First Suite for Unaccompanied Cello (BWV 1007) and attempts to make its underlying musical struture visible by representing musical patterns of harmony as visual patterns of color. 
+        This visualization considers the Prelude from J.S. Bach's First Suite for Unaccompanied Cello (BWV 1007), found <a href='https://www.youtube.com/watch?v=PCicM6i59_I'>here</a>, and attempts to make its underlying musical struture visible by representing musical patterns of harmony as visual patterns of color. 
         </p>
         <p>
         At the crux of this is a mapping of the Circle of Fifths, a way of structuring musical harmonic space, to the familiar Color Wheel, a way of strucutring visual color space. This is done as follows: 
+        <br>
         </p>
         <img src='mapping.png'>
         <p>
+        <br>
         Like the Color Wheel does with colors, the Circle of Fifths positions all the musical keys on a circle with similar keys near each other and dissimilar keys across from each other. Mapping music to color in this way preserves the intuitive relation between keys as a similarly intuitive relation between colors. 
         </p>
         <p>
-        Using the above mapping, this visualization assigns a base hue to each measure of the prelude based on its musical key. Then, considering each 
+        Using the above mapping, this visualization constructs a color for each note of the prelude. It first assigns a base hue to each measure based on its musical key. Then, to each note within that measure it assigns a saturation based on the position of that note in the scale of the measure. There are 12 notes in a scale, and correspondingly, 12 levels of saturation. Notes that are farther away from the tonic (the first note) of the scale have an increasingly lesser level of saturation, while the tonic is colored at full saturation. Juxtaposing the colors for each note, the overall visualization looks as follows:
         </p>
         <img src='sample.png'>
         <p style='margin-bottom: 100px;'>
-        See the visualization <a href='visual.html'>here</a>.
+        See the full visualization <a href='visual.html'>here</a>.
         </p>
     </div>
 </body>
